@@ -1,0 +1,2183 @@
+
+==========================================================================================
+  CLASS: NURSERY
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday                               NTT           NTT                         NTT           NTT                            
+                                  AGRAWA        AGRAWA                      AGRAWA        AGRAWA                            
+
+Tuesday                              NTT          NTT*                         NTT           NTT                            
+                                  AGRAWA        AGRAWA                      AGRAWA        AGRAWA                            
+
+Wednesday                            NTT           NTT                         NTT           NTT                            
+                                  AGRAWA        AGRAWA                      AGRAWA        AGRAWA                            
+
+Thursday                             NTT          NTT*                         NTT           NTT                            
+                                  AGRAWA        AGRAWA                      AGRAWA        AGRAWA                            
+
+Friday                               NTT           NTT                         NTT           NTT                            
+                                  AGRAWA        AGRAWA                      AGRAWA        AGRAWA                            
+
+Saturday                             NTT           NTT                         NTT           NTT                            
+                                  AGRAWA        AGRAWA                      AGRAWA        AGRAWA                            
+
+
+==========================================================================================
+  CLASS: LKG
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday                               NTT          NTT*                         NTT           NTT                            
+                                   SINGH         SINGH                       SINGH         SINGH                            
+
+Tuesday                              NTT           NTT                         NTT           NTT                            
+                                   SINGH         SINGH                       SINGH         SINGH                            
+
+Wednesday                            NTT          NTT*                         NTT           NTT                            
+                                   SINGH         SINGH                       SINGH         SINGH                            
+
+Thursday                             NTT           NTT                         NTT           NTT                            
+                                   SINGH         SINGH                       SINGH         SINGH                            
+
+Friday                               NTT           NTT                         NTT           NTT                            
+                                   SINGH         SINGH                       SINGH         SINGH                            
+
+Saturday                             NTT           NTT                         NTT           NTT                            
+                                   SINGH         SINGH                       SINGH         SINGH                            
+
+
+==========================================================================================
+  CLASS: UKG A
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday                               NTT           NTT                         NTT           NTT                            
+                                   MIRAJ         MIRAJ                       MIRAJ         MIRAJ                            
+
+Tuesday                             NTT*           NTT                         NTT           NTT                            
+                                   MIRAJ         MIRAJ                       MIRAJ         MIRAJ                            
+
+Wednesday                            NTT           NTT                         NTT           NTT                            
+                                   MIRAJ         MIRAJ                       MIRAJ         MIRAJ                            
+
+Thursday                             NTT           NTT                         NTT           NTT                            
+                                   MIRAJ         MIRAJ                       MIRAJ         MIRAJ                            
+
+Friday                              NTT*           NTT                         NTT           NTT                            
+                                   MIRAJ         MIRAJ                       MIRAJ         MIRAJ                            
+
+Saturday                             NTT           NTT                         NTT           NTT                            
+                                   MIRAJ         MIRAJ                       MIRAJ         MIRAJ                            
+
+
+==========================================================================================
+  CLASS: UKG B
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday                               NTT           NTT                         NTT           NTT                            
+                                   SNEHI         SNEHI                       SNEHI         SNEHI                            
+
+Tuesday                              NTT           NTT                         NTT           NTT                            
+                                   SNEHI         SNEHI                       SNEHI         SNEHI                            
+
+Wednesday                            NTT           NTT                         NTT           NTT                            
+                                   SNEHI         SNEHI                       SNEHI         SNEHI                            
+
+Thursday                             NTT           NTT                         NTT           NTT                            
+                                   SNEHI         SNEHI                       SNEHI         SNEHI                            
+
+Friday                               NTT          NTT*                         NTT           NTT                            
+                                   SNEHI         SNEHI                       SNEHI         SNEHI                            
+
+Saturday                            NTT*           NTT                         NTT           NTT                            
+                                   SNEHI         SNEHI                       SNEHI         SNEHI                            
+
+
+==========================================================================================
+  CLASS: UKG C
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday                               NTT           NTT                         NTT           NTT                            
+                                  SALONI        SALONI                      SALONI        SALONI                            
+
+Tuesday                              NTT           NTT                         NTT           NTT                            
+                                  SALONI        SALONI                      SALONI        SALONI                            
+
+Wednesday                           NTT*           NTT                         NTT           NTT                            
+                                  SALONI        SALONI                      SALONI        SALONI                            
+
+Thursday                             NTT           NTT                         NTT           NTT                            
+                                  SALONI        SALONI                      SALONI        SALONI                            
+
+Friday                               NTT           NTT                         NTT           NTT                            
+                                  SALONI        SALONI                      SALONI        SALONI                            
+
+Saturday                             NTT          NTT*                         NTT           NTT                            
+                                  SALONI        SALONI                      SALONI        SALONI                            
+
+
+==========================================================================================
+  CLASS: 1A
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        SCIENC        SCIENC        SCIENC        SCIENC       SCIENC*         MUSIC           NTT
+                      NEHA          NEHA          NEHA          NEHA          NEHA          NEHA        MISHRA         MIRAJ
+
+Tuesday             SCIENC        SCIENC        SCIENC        SCIENC        SMART         SCIENC           LIB        SCIENC
+                      NEHA          NEHA          NEHA          NEHA          NEHA          NEHA        KUMARI          NEHA
+
+Wednesday           SCIENC        SCIENC         MATHS       SCIENC*        SCIENC       SCIENC*        SCIENC           NTT
+                      NEHA          NEHA        SHARMA          NEHA          NEHA          NEHA          NEHA         MIRAJ
+
+Thursday           SCIENC*       SCIENC*        SCIENC        SCIENC        SCIENC        SCIENC        SCIENC        SCIENC
+                      NEHA          NEHA          NEHA          NEHA          NEHA          NEHA          NEHA          NEHA
+
+Friday              SCIENC        SCIENC        SCIENC        SCIENC         MATHS        SCIENC        SCIENC           NTT
+                      NEHA          NEHA          NEHA          NEHA        SHARMA          NEHA          NEHA         MIRAJ
+
+Saturday            SCIENC        SCIENC        SCIENC        SCIENC        SCIENC        SCIENC       SCIENC*        SCIENC
+                      NEHA          NEHA          NEHA          NEHA          NEHA          NEHA          NEHA          NEHA
+
+
+==========================================================================================
+  CLASS: 1B
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        SCIENC        SCIENC        SCIENC        SCIENC       SCIENC*        SMART           NTT*
+                    PRAKAS        PRAKAS        PRAKAS        PRAKAS        PRAKAS        PRAKAS        PRAKAS         SNEHI
+
+Tuesday             SCIENC        SCIENC        SCIENC       SCIENC*        SCIENC        SCIENC        SCIENC        SCIENC
+                    PRAKAS        PRAKAS        PRAKAS        PRAKAS        PRAKAS        PRAKAS        PRAKAS        PRAKAS
+
+Wednesday           SCIENC       SCIENC*       SCIENC*        SCIENC        SCIENC        SCIENC         MATHS           NTT
+                    PRAKAS        PRAKAS        PRAKAS        PRAKAS        PRAKAS        PRAKAS        SHARMA         SNEHI
+
+Thursday            SCIENC        SCIENC           LIB        SCIENC        SCIENC        SCIENC         MATHS           NTT
+                    PRAKAS        PRAKAS        KUMARI        PRAKAS        PRAKAS        PRAKAS        SHARMA         SNEHI
+
+Friday              SCIENC       SCIENC*        SCIENC        SCIENC        SMART         MUSIC*        SCIENC        SCIENC
+                    PRAKAS        PRAKAS        PRAKAS        PRAKAS        PRAKAS        MISHRA        PRAKAS        PRAKAS
+
+Saturday            SCIENC        SCIENC        SCIENC        SCIENC        SCIENC        SCIENC        SCIENC        SCIENC
+                    PRAKAS        PRAKAS        PRAKAS        PRAKAS        PRAKAS        PRAKAS        PRAKAS        PRAKAS
+
+
+==========================================================================================
+  CLASS: 1C
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        SCIENC        SCIENC        SCIENC       SCIENC*        SCIENC        SCIENC           NTT
+                     SINGH         SINGH         SINGH         SINGH         SINGH         SINGH         SINGH        AGRAWA
+
+Tuesday             SCIENC        SCIENC       SCIENC*         MUSIC        SCIENC        SCIENC        SCIENC           NTT
+                     SINGH         SINGH         SINGH        MISHRA         SINGH         SINGH         SINGH        AGRAWA
+
+Wednesday           SCIENC        SCIENC        SCIENC        SCIENC       SCIENC*        SCIENC       SCIENC*        SCIENC
+                     SINGH         SINGH         SINGH         SINGH         SINGH         SINGH         SINGH         SINGH
+
+Thursday            SCIENC       SCIENC*       SCIENC*        SCIENC           LIB        SCIENC        SCIENC        SCIENC
+                     SINGH         SINGH         SINGH         SINGH        KUMARI         SINGH         SINGH         SINGH
+
+Friday              SCIENC        SCIENC        SCIENC       SCIENC*        SCIENC        SCIENC        SCIENC           NTT
+                     SINGH         SINGH         SINGH         SINGH         SINGH         SINGH         SINGH        AGRAWA
+
+Saturday            SCIENC        SCIENC        SCIENC        SCIENC        SCIENC        SCIENC        SCIENC        SCIENC
+                     SINGH         SINGH         SINGH         SINGH         SINGH         SINGH         SINGH         SINGH
+
+
+==========================================================================================
+  CLASS: 1D
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               MATHS         MATHS         MATHS        MATHS*           LIB         MATHS         MATHS         MATHS
+                    KUMARI        KUMARI        KUMARI        KUMARI        KUMARI        KUMARI        KUMARI        KUMARI
+
+Tuesday              MATHS         MATHS         MATHS         MATHS         MATHS         MATHS         MATHS           NTT
+                    KUMARI        KUMARI        KUMARI        KUMARI        KUMARI        KUMARI        KUMARI         SINGH
+
+Wednesday           MATHS*         MATHS        MATHS*         MATHS         MATHS         MATHS         MATHS         MATHS
+                    KUMARI        KUMARI        KUMARI        KUMARI        KUMARI        KUMARI        KUMARI        KUMARI
+
+Thursday             MATHS         MATHS        MATHS*         HINDI        SMART          MATHS        MATHS*           NTT
+                    KUMARI        KUMARI        KUMARI         SINGH        KUMARI        KUMARI        KUMARI         SINGH
+
+Friday               MATHS         MUSIC         MATHS         HINDI         MATHS        MATHS*         MATHS           NTT
+                    KUMARI         SARAN        KUMARI         SINGH        KUMARI        KUMARI        KUMARI         SINGH
+
+Saturday             MATHS         MATHS         MATHS         MATHS         MATHS         MATHS         MATHS         MATHS
+                    KUMARI        KUMARI        KUMARI        KUMARI        KUMARI        KUMARI        KUMARI        KUMARI
+
+
+==========================================================================================
+  CLASS: 1E
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               HINDI        HINDI*        SCIENC         HINDI         MATHS        SCIENC         HINDI         HINDI
+                    SANDIL        SANDIL         SINGH        SANDIL        SHARMA         SINGH        SANDIL        SANDIL
+
+Tuesday              HINDI         HINDI         HINDI         HINDI         HINDI         HINDI        SCIENC          NTT*
+                    SANDIL        SANDIL        SANDIL        SANDIL        SANDIL        SANDIL         SINGH        SALONI
+
+Wednesday            HINDI         HINDI        SCIENC         HINDI           LIB         MATHS         HINDI           NTT
+                    SANDIL        SANDIL         SINGH        SANDIL        KUMARI        SHARMA        SANDIL        SALONI
+
+Thursday             HINDI         HINDI         HINDI        SMART          MUSIC        SCIENC         HINDI           NTT
+                    SANDIL        SANDIL        SANDIL        SANDIL         SARAN         SINGH        SANDIL        SALONI
+
+Friday               HINDI        SCIENC         HINDI        SMART          HINDI        SCIENC         HINDI         HINDI
+                    SANDIL         SINGH        SANDIL        SANDIL        SANDIL         SINGH        SANDIL        SANDIL
+
+Saturday             HINDI         HINDI         HINDI         HINDI        SCIENC         HINDI         HINDI         HINDI
+                    SANDIL        SANDIL        SANDIL        SANDIL        PALLAV        SANDIL        SANDIL        SANDIL
+
+
+==========================================================================================
+  CLASS: 2A
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday                 LIB        SMART         SCIENC        SCIENC        SCIENC        SCIENC        SCIENC        SCIENC
+                    KUMARI        SHARMA        APARNA        APARNA        APARNA        KUMARI        APARNA        APARNA
+
+Tuesday             SCIENC        SCIENC        SCIENC           ART        SCIENC       SCIENC*        SCIENC        SCIENC
+                    APARNA        APARNA        APARNA        KUMARI        APARNA        APARNA        APARNA        APARNA
+
+Wednesday           SCIENC       SCIENC*        SCIENC        SCIENC        SCIENC        SCIENC        SCIENC        SCIENC
+                    APARNA        APARNA        APARNA        APARNA        APARNA        KUMARI        APARNA        APARNA
+
+Thursday            SCIENC        SMART         SCIENC        SCIENC           ART        SCIENC        SCIENC        SCIENC
+                    APARNA        SHARMA        APARNA        APARNA        KUMARI        KUMARI        APARNA        APARNA
+
+Friday              SCIENC        SCIENC       SCIENC*         MUSIC       SCIENC*        SCIENC        SCIENC        SCIENC
+                    APARNA        APARNA        APARNA        MISHRA        APARNA        KUMARI        APARNA        APARNA
+
+Saturday            SCIENC                      SCIENC        SCIENC        SCIENC        SCIENC       SCIENC*        SCIENC
+                    APARNA                      APARNA        APARNA        APARNA        APARNA        APARNA        APARNA
+
+
+==========================================================================================
+  CLASS: 2B
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               MATHS        MATHS*         MATHS           ART         MATHS        MATHS*         MATHS         MATHS
+                    PRASAD        PRASAD        PRASAD        SACHIN        PRASAD        PRASAD        PRASAD        PRASAD
+
+Tuesday                LIB         MATHS         MATHS           ART         MATHS         MATHS        MATHS*         MATHS
+                    KUMARI        PRASAD        PRASAD        SACHIN        PRASAD        JYOTSN        PRASAD        PRASAD
+
+Wednesday            MATHS         MATHS         MATHS         MATHS        MATHS*         MATHS       SCIENC*         MATHS
+                    PRASAD        PRASAD        PRASAD        PRASAD        PRASAD        PRASAD        KUMARI        PRASAD
+
+Thursday             MATHS         MATHS         MATHS       SCIENC*         MATHS        MATHS*         MATHS         MATHS
+                    PRASAD        PRASAD        PRASAD        KUMARI        PRASAD        PRASAD        PRASAD        PRASAD
+
+Friday              MATHS*         MATHS         MUSIC        MATHS*         MATHS         MATHS         MATHS         MATHS
+                    PRASAD        PRASAD        MISHRA        PRASAD        PRASAD        JYOTSN        PRASAD        PRASAD
+
+Saturday             MATHS         MATHS         MATHS         MATHS         MATHS                       MATHS         MATHS
+                    PRASAD        PRASAD        PRASAD        PRASAD        PRASAD                      PRASAD        PRASAD
+
+
+==========================================================================================
+  CLASS: 2C
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               HINDI         HINDI         HINDI        HINDI*        SCIENC         HINDI         HINDI         HINDI
+                     RAJNI         RAJNI         RAJNI         RAJNI         SINGH         RAJNI         RAJNI         RAJNI
+
+Tuesday              HINDI           ART        HINDI*         HINDI         MATHS         HINDI        SCIENC         HINDI
+                     RAJNI        SACHIN         RAJNI         RAJNI        JYOTSN         RAJNI        RANJAN         RAJNI
+
+Wednesday              LIB         HINDI         HINDI         MUSIC        SMART          HINDI         HINDI         HINDI
+                    KUMARI         RAJNI         RAJNI        MISHRA         RAJNI         RAJNI         RAJNI         RAJNI
+
+Thursday             HINDI         HINDI           ART         HINDI         MATHS         HINDI        HINDI*         HINDI
+                     RAJNI         RAJNI        SACHIN         RAJNI        JYOTSN         RAJNI         RAJNI         RAJNI
+
+Friday               HINDI         HINDI        HINDI*       SCIENC*         HINDI         HINDI        SMART          HINDI
+                     RAJNI         RAJNI         RAJNI         SINGH         RAJNI         RAJNI         RAJNI         RAJNI
+
+Saturday             HINDI         HINDI                       HINDI        HINDI*         HINDI         HINDI         HINDI
+                     RAJNI         RAJNI                       RAJNI         RAJNI         RAJNI         RAJNI         RAJNI
+
+
+==========================================================================================
+  CLASS: 2D
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday             SCIENC*         MUSIC        SCIENC         MATHS        SCIENC       SCIENC*        SCIENC        SCIENC
+                    MISHRA         SARAN        MISHRA        JYOTSN        MISHRA        MISHRA        MISHRA        MISHRA
+
+Tuesday             SCIENC        SCIENC        SCIENC        SCIENC        SCIENC       SCIENC*        SCIENC        SCIENC
+                    MISHRA        MISHRA        MISHRA        MISHRA        MISHRA        MISHRA        MISHRA        MISHRA
+
+Wednesday          SCIENC*        SCIENC           ART        SCIENC         MATHS        SCIENC        SCIENC        SCIENC
+                    MISHRA        MISHRA        SACHIN        MISHRA        JYOTSN        MISHRA        MISHRA        MISHRA
+
+Thursday               LIB        SCIENC        SCIENC        SCIENC        SCIENC                     SCIENC*        SCIENC
+                    KUMARI        MISHRA        MISHRA        MISHRA        MISHRA                      MISHRA        MISHRA
+
+Friday              SCIENC           ART       SCIENC*        SCIENC        SCIENC        SCIENC        SCIENC        SCIENC
+                    MISHRA        SACHIN        MISHRA        RANJAN        MISHRA        MISHRA        MISHRA        MISHRA
+
+Saturday            SCIENC                      SCIENC        SCIENC        SCIENC       SCIENC*        SCIENC        SCIENC
+                    MISHRA                      MISHRA        MISHRA        MISHRA        MISHRA        MISHRA        MISHRA
+
+
+==========================================================================================
+  CLASS: 2E
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        SCIENC        SCIENC       SCIENC*         MATHS        SCIENC        SCIENC        SCIENC
+                    MISHRA        MISHRA        MISHRA        MISHRA        JYOTSN        MISHRA        MISHRA        MISHRA
+
+Tuesday            SCIENC*        SCIENC       SCIENC*        SCIENC        SCIENC        SCIENC         MUSIC        SCIENC
+                    MISHRA        MISHRA        MISHRA        MISHRA        MISHRA        MISHRA         SARAN        MISHRA
+
+Wednesday           SCIENC         MATHS        SCIENC           ART        SCIENC       SCIENC*        SOCIAL        SCIENC
+                    MISHRA        JYOTSN        MISHRA        SACHIN        MISHRA        MISHRA        KUMARI        MISHRA
+
+Thursday            SCIENC        SCIENC        SCIENC        SCIENC           ART        SCIENC        SCIENC        SCIENC
+                    MISHRA        MISHRA        MISHRA        MISHRA        SACHIN        MISHRA        MISHRA        MISHRA
+
+Friday                 LIB        SCIENC       SCIENC*       SCIENC*        SOCIAL        SCIENC        SCIENC        SCIENC
+                    KUMARI        MISHRA        MISHRA        MISHRA        KUMARI        MISHRA        MISHRA        MISHRA
+
+Saturday           SCIENC*        SCIENC        SCIENC        SCIENC       SCIENC*           PHE        SCIENC       SCIENC*
+                    MISHRA        MISHRA        MISHRA        MISHRA        MISHRA        MISHRA        MISHRA        MISHRA
+
+
+==========================================================================================
+  CLASS: 2F
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               HINDI         HINDI        HINDI*           LIB         HINDI         HINDI         HINDI         HINDI
+                     GUPTA         GUPTA         GUPTA        KUMARI         GUPTA         GUPTA         GUPTA         GUPTA
+
+Tuesday              HINDI         HINDI         HINDI        SMART          HINDI         MATHS         HINDI         HINDI
+                     GUPTA         GUPTA         GUPTA         GUPTA         GUPTA        SHARMA         GUPTA         GUPTA
+
+Wednesday            HINDI         HINDI         HINDI        SMART          HINDI           ART        HINDI*         HINDI
+                     GUPTA         GUPTA         GUPTA         GUPTA         GUPTA        SACHIN         GUPTA         GUPTA
+
+Thursday             HINDI           ART        HINDI*         HINDI         HINDI         HINDI         HINDI         HINDI
+                     GUPTA        SACHIN         GUPTA         GUPTA         GUPTA         GUPTA         GUPTA         GUPTA
+
+Friday              HINDI*         HINDI         MUSIC         HINDI         HINDI         MATHS         HINDI         HINDI
+                     GUPTA         GUPTA         SARAN         GUPTA         GUPTA        SHARMA         GUPTA         GUPTA
+
+Saturday             HINDI         HINDI                       HINDI         HINDI         HINDI         HINDI        HINDI*
+                     GUPTA         GUPTA                       GUPTA         GUPTA         GUPTA         GUPTA         GUPTA
+
+
+==========================================================================================
+  CLASS: 3A
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               MATHS        SCIENC         HINDI        SOCIAL           ART         MATHS        COMPUT        SCIENC
+                    SHARMA         SINGH         SINHA         SINGH        SACHIN        SHARMA        SHARMA        KURIAK
+
+Tuesday              MATHS        SCIENC         HINDI       SOCIAL*         MATHS           LIB        SCIENC        SOCIAL
+                    SHARMA         SINGH         SINHA         SINGH        SHARMA        KUMARI        KURIAK         SINGH
+
+Wednesday            MATHS        SCIENC         HINDI        SOCIAL        SCIENC        SCIENC       SOCIAL*       SCIENC*
+                    SHARMA         SINGH         SINHA         SINGH        KURIAK         SINGH        KUMARI        KURIAK
+
+Thursday             MATHS        SCIENC         HINDI       SOCIAL*       SCIENC*         MUSIC        SOCIAL         MATHS
+                    SHARMA         SINGH         SINHA        KUMARI        KURIAK        MISHRA         SINGH        SHARMA
+
+Friday               MATHS        HINDI*        SCIENC           PHE        SCIENC                      SCIENC         HINDI
+                    SHARMA         SINHA         SINGH        BRAJES        KURIAK                      KURIAK         SINHA
+
+Saturday             MATHS        SCIENC        COMPUT         HINDI       SCIENC*        SOCIAL         MATHS         MATHS
+                    SHARMA         SINGH        SHARMA         SINHA        KURIAK         SINGH        SHARMA        SHARMA
+
+
+==========================================================================================
+  CLASS: 3B
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        SCIENC        HINDI*         MATHS       SOCIAL*        SOCIAL         MATHS         HINDI
+                    KHURAN        RANJAN         MADHU        SHARMA         SINGH         SINHA        SHARMA         MADHU
+
+Tuesday             SCIENC       SCIENC*        COMPUT         MATHS           ART        SOCIAL         HINDI        SCIENC
+                    KHURAN        RANJAN        SHARMA        SHARMA        SACHIN         SINHA         MADHU        RANJAN
+
+Wednesday           SCIENC           LIB         HINDI        SCIENC         MATHS        SOCIAL           PHE        SCIENC
+                    KHURAN        KUMARI         MADHU        RANJAN        SHARMA         SINHA         RAHUL        KHURAN
+
+Thursday           SCIENC*         MUSIC         HINDI         MATHS        SCIENC        SOCIAL        COMPUT        SOCIAL
+                    KHURAN         SARAN         MADHU        SHARMA        RANJAN         SINHA        SHARMA         SINHA
+
+Friday              SCIENC        SCIENC         HINDI         MATHS        SOCIAL       SOCIAL*       SOCIAL*         MATHS
+                    KHURAN        RANJAN         MADHU        SHARMA         SINHA         SINGH         SINHA        SHARMA
+
+Saturday            SCIENC        SCIENC         HINDI                       MATHS       SOCIAL*        SCIENC        SCIENC
+                    KHURAN        RANJAN         MADHU                      SHARMA         SINHA        KHURAN        KHURAN
+
+
+==========================================================================================
+  CLASS: 3C
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               MATHS        SCIENC           LIB        COMPUT         HINDI        SCIENC       SOCIAL*         MATHS
+                    JYOTSN        MISHRA        KUMARI        SHARMA         SINHA        KURIAK         SINHA        JYOTSN
+
+Tuesday              MATHS                      SCIENC         HINDI        SOCIAL        SCIENC       SCIENC*         HINDI
+                    JYOTSN                      MISHRA         SINHA         SINHA        KURIAK        MISHRA         SINHA
+
+Wednesday            MATHS        COMPUT        SCIENC        SCIENC        SCIENC         HINDI        SOCIAL         MATHS
+                    JYOTSN        SHARMA        MISHRA        KURIAK         DUBEY         SINHA         SINHA        JYOTSN
+
+Thursday             MATHS       SOCIAL*        SCIENC         HINDI                     SCIENC*        SOCIAL         MUSIC
+                    JYOTSN         SINGH        MISHRA         SINHA                      KURIAK         SINHA        MISHRA
+
+Friday               MATHS        SCIENC           ART         HINDI         MATHS        SCIENC        SCIENC        SOCIAL
+                    JYOTSN        MISHRA        SACHIN         SINHA        JYOTSN        KURIAK         DUBEY         SINHA
+
+Saturday             MATHS       SOCIAL*         HINDI       SCIENC*        SOCIAL        SCIENC         MATHS         MATHS
+                    JYOTSN         SINGH         SINHA        KURIAK         SINHA        MISHRA        JYOTSN        JYOTSN
+
+
+==========================================================================================
+  CLASS: 3D
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC           LIB        SOCIAL       SCIENC*       SCIENC*        HINDI*         MATHS        SCIENC
+                    RANJAN        KUMARI         SINHA        MISHRA        KHURAN         MADHU        JYOTSN        RANJAN
+
+Tuesday             SCIENC        SOCIAL         HINDI         MATHS        COMPUT        SCIENC         MATHS         HINDI
+                    RANJAN         SINHA         MADHU        JYOTSN         SINGH        KHURAN        JYOTSN         MADHU
+
+Wednesday           SCIENC        SOCIAL         MATHS       SCIENC*        SCIENC         HINDI        COMPUT        SOCIAL
+                    RANJAN         SINHA        JYOTSN        MISHRA        KHURAN         MADHU         SINGH         SINHA
+
+Thursday            SCIENC       SOCIAL*        SCIENC         MATHS        SCIENC         HINDI         MATHS        SCIENC
+                    RANJAN         SINHA         SINGH        JYOTSN        KHURAN         MADHU        JYOTSN        KHURAN
+
+Friday              SCIENC         MUSIC        SOCIAL         MATHS        SCIENC         HINDI       SCIENC*         HINDI
+                    RANJAN        MISHRA         SINHA        JYOTSN        KHURAN         MADHU        RANJAN         MADHU
+
+Saturday            SCIENC        SOCIAL           ART                                     MATHS        SCIENC        SCIENC
+                    RANJAN         SINHA        KUMARI                                    JYOTSN        RANJAN        RANJAN
+
+
+==========================================================================================
+  CLASS: 3E
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC                      SOCIAL         HINDI         MATHS        SCIENC        SCIENC       SCIENC*
+                    MISHRA                       SINGH         MADHU         SINGH        MISHRA         SINGH        MISHRA
+
+Tuesday             SCIENC           LIB        SOCIAL         HINDI         MATHS         MUSIC       SCIENC*        COMPUT
+                    MISHRA        KUMARI         SINGH         MADHU         SINGH         SARAN         SINGH         SINGH
+
+Wednesday          SCIENC*         MATHS           ART         HINDI         MATHS        SCIENC       SOCIAL*        SCIENC
+                    MISHRA         SINGH        KUMARI         MADHU         SINGH        MISHRA         SINGH         SINGH
+
+Thursday            SCIENC        COMPUT        SOCIAL        HINDI*         MATHS        SCIENC        SCIENC         HINDI
+                    MISHRA         SINGH         SINGH         MADHU         SINGH        MISHRA         SINGH         MADHU
+
+Friday              SCIENC        SOCIAL         MATHS         HINDI         MATHS           PHE        SCIENC        SCIENC
+                    MISHRA         SINGH         SINGH         MADHU         SINGH        BRAJES         SINGH        MISHRA
+
+Saturday            SCIENC         HINDI        SOCIAL       SCIENC*         MATHS        SCIENC        SCIENC        SCIENC
+                    MISHRA         MADHU         SINGH        MISHRA         SINGH         SINGH        MISHRA        MISHRA
+
+
+==========================================================================================
+  CLASS: 3F
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday             SCIENC*        SOCIAL         MATHS           PHE         HINDI        SCIENC        SCIENC        SCIENC
+                     SINGH         SINHA         SINGH        BRAJES        SANDIL         SINGH         SINGH        KUMARI
+
+Tuesday             SCIENC       SCIENC*        COMPUT       SOCIAL*        SCIENC         MATHS         HINDI        SCIENC
+                     SINGH         SINGH         SINGH         SINHA         SINGH         SINGH        SANDIL         SINGH
+
+Wednesday           SCIENC       SCIENC*         MATHS        SOCIAL                       MATHS       SCIENC*         HINDI
+                     SINGH         SINGH         SINGH         SINHA                       SINGH         SINGH        SANDIL
+
+Thursday            SCIENC        SCIENC        COMPUT        SOCIAL         HINDI         MATHS         MUSIC        HINDI*
+                     SINGH         SINGH         SINGH         SINHA        SANDIL         SINGH         SARAN        SANDIL
+
+Friday              SCIENC         HINDI           ART        SOCIAL        SCIENC         MATHS       SCIENC*           LIB
+                     SINGH        SANDIL        KUMARI         SINHA         SINGH         SINGH        MISHRA        KUMARI
+
+Saturday            SCIENC        SCIENC         MATHS        SOCIAL         HINDI         MATHS        SCIENC        SCIENC
+                     SINGH         SINGH         SINGH         SINHA        SANDIL         SINGH         SINGH         SINGH
+
+
+==========================================================================================
+  CLASS: 4A
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        SOCIAL        SANSKR         MATHS                       MATHS        SCIENC           ART
+                    KUMARI        KALPAN        KUMARI        SAKSHI                      SAKSHI        MISHRA        KUMARI
+
+Tuesday            SCIENC*        SOCIAL           LIB        SANSKR        SCIENC         MATHS        SANSKR         MUSIC
+                    KUMARI        KALPAN        KUMARI        KUMARI        MISHRA        SAKSHI        KUMARI        MISHRA
+
+Wednesday           SCIENC        SOCIAL        COMPUT       SANSKR*        SCIENC         MATHS        SCIENC        SCIENC
+                    KUMARI        KALPAN        SHARMA        KUMARI        MISHRA        SAKSHI        MISHRA        KUMARI
+
+Thursday            SCIENC        SCIENC        SOCIAL        SANSKR                       MATHS       SCIENC*        SCIENC
+                    KUMARI        MISHRA        KALPAN        KUMARI                      SAKSHI        MISHRA        MISHRA
+
+Friday              SCIENC        SOCIAL       SCIENC*        SANSKR       SCIENC*         MATHS        COMPUT         MATHS
+                    KUMARI        KALPAN        MISHRA        KUMARI        MISHRA        SAKSHI        SHARMA        SAKSHI
+
+Saturday            SCIENC         MATHS        SCIENC        SANSKR       SOCIAL*         MATHS        SCIENC        SCIENC
+                    KUMARI        SAKSHI        MISHRA        KUMARI        KALPAN        SAKSHI        KUMARI        KUMARI
+
+
+==========================================================================================
+  CLASS: 4B
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               HINDI         MATHS        SOCIAL           ART        SCIENC        SCIENC         MATHS         HINDI
+                     SINHA        SAKSHI        KUMARI        KUMARI        KURIAK        THAKUR        SAKSHI         SINHA
+
+Tuesday              HINDI        SCIENC        SOCIAL         MATHS           LIB        SCIENC         MATHS              
+                     SINHA        KURIAK        KUMARI        SAKSHI        KUMARI        THAKUR        SAKSHI              
+
+Wednesday            HINDI        SCIENC        SCIENC         MATHS        SOCIAL       SCIENC*         MATHS        MATHS*
+                     SINHA        KURIAK        THAKUR        SAKSHI        KUMARI        THAKUR        SAKSHI        SAKSHI
+
+Thursday            HINDI*        SCIENC        SOCIAL        COMPUT        MATHS*        SCIENC         MATHS         HINDI
+                     SINHA        KURIAK        KUMARI        SHARMA        SAKSHI        THAKUR        SAKSHI         SINHA
+
+Friday               HINDI       SCIENC*        SOCIAL         MATHS        SOCIAL        SCIENC         MUSIC        COMPUT
+                     SINHA        KURIAK        KUMARI        SAKSHI        KUMARI        THAKUR        MISHRA        SHARMA
+
+Saturday             HINDI       SOCIAL*        SCIENC        SCIENC         MATHS                       HINDI         HINDI
+                     SINHA        KUMARI        KURIAK        THAKUR        SAKSHI                       SINHA         SINHA
+
+
+==========================================================================================
+  CLASS: 4C
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SOCIAL         MATHS        COMPUT         MUSIC        SANSKR        SCIENC        SCIENC       SOCIAL*
+                     SINGH        SHARMA        SHARMA        MISHRA        KUMARI        RANJAN        KUMARI         SINGH
+
+Tuesday             SOCIAL         MATHS       SANSKR*           LIB        SCIENC        SANSKR        SCIENC         MATHS
+                     SINGH        SHARMA        KUMARI        KUMARI        RANJAN        KUMARI        KUMARI        SHARMA
+
+Wednesday           SOCIAL         MATHS        SCIENC       SCIENC*       SCIENC*        SANSKR        COMPUT        SOCIAL
+                     SINGH        SHARMA        RANJAN        KUMARI        RANJAN        KUMARI        SHARMA         SINGH
+
+Thursday            SOCIAL        SCIENC         MATHS           PHE         MATHS           ART        SANSKR        SCIENC
+                     SINGH        KUMARI        SHARMA        BRAJES        SHARMA        KUMARI        KUMARI        RANJAN
+
+Friday              SOCIAL         MATHS                     SOCIAL*        SOCIAL        SANSKR        SCIENC        SCIENC
+                     SINGH        SHARMA                      SHARAN         SINGH        KUMARI        KUMARI        RANJAN
+
+Saturday            SOCIAL        SANSKR        SCIENC       SOCIAL*       SCIENC*         MATHS        SOCIAL        SOCIAL
+                     SINGH        KUMARI        RANJAN        SHARAN        KUMARI        SHARMA         SINGH         SINGH
+
+
+==========================================================================================
+  CLASS: 4D
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SOCIAL         HINDI       SCIENC*         MATHS        SCIENC                       MATHS           ART
+                    KUMARI        PANDEY         SINGH         SINGH        RANJAN                       SINGH        SACHIN
+
+Tuesday             SOCIAL         HINDI        SCIENC         MATHS       SOCIAL*        SCIENC        SOCIAL       SOCIAL*
+                    KUMARI        PANDEY         SINGH         SINGH        KUMARI        RANJAN        KUMARI        KUMARI
+
+Wednesday           SOCIAL        COMPUT        SCIENC         MATHS                      SCIENC        SCIENC         HINDI
+                    KUMARI         SINGH         SINGH         SINGH                      RANJAN        RANJAN        PANDEY
+
+Thursday            SOCIAL         HINDI        SCIENC         MATHS        SCIENC        MUSIC*        SCIENC         MATHS
+                    KUMARI        PANDEY        RANJAN         SINGH         SINGH         SARAN        RANJAN         SINGH
+
+Friday              SOCIAL         HINDI        SCIENC         MATHS        COMPUT        SCIENC       SOCIAL*        HINDI*
+                    KUMARI        PANDEY         SINGH         SINGH         SINGH        RANJAN        KUMARI        PANDEY
+
+Saturday            SOCIAL         HINDI       SCIENC*         MATHS        SCIENC           LIB        SOCIAL        SOCIAL
+                    KUMARI        PANDEY         SINGH         SINGH        RANJAN        KUMARI        KUMARI        KUMARI
+
+
+==========================================================================================
+  CLASS: 4E
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SOCIAL        SCIENC       SOCIAL*         MATHS        SCIENC         MATHS         HINDI       SOCIAL*
+                     SINHA        KHURAN        KALPAN         MISRA         SINGH         MISRA        PANDEY         SINHA
+
+Tuesday             SOCIAL        SCIENC        SCIENC         MATHS       SCIENC*           ART       SOCIAL*         HINDI
+                     SINHA        KHURAN         SINGH         MISRA         SINGH        SACHIN        KALPAN        PANDEY
+
+Wednesday           SOCIAL        SCIENC         HINDI         MATHS        SCIENC        COMPUT        HINDI*         MUSIC
+                     SINHA        KHURAN        PANDEY         MISRA         SINGH         SINGH        PANDEY         SARAN
+
+Thursday            SOCIAL        SCIENC         HINDI         MATHS        SCIENC           LIB        SCIENC              
+                     SINHA        KHURAN        PANDEY         MISRA         SINGH        KUMARI         SINGH              
+
+Friday              SOCIAL        SCIENC        COMPUT         HINDI        SCIENC         MATHS         MATHS        SCIENC
+                     SINHA        KHURAN         SINGH        PANDEY         SINGH         MISRA         MISRA         SINGH
+
+Saturday            SOCIAL       SCIENC*         HINDI         MATHS        SCIENC                      SOCIAL        SOCIAL
+                     SINHA        KHURAN        PANDEY         MISRA         SINGH                       SINHA         SINHA
+
+
+==========================================================================================
+  CLASS: 4F
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday             SCIENC*         HINDI         MATHS                      SCIENC        SCIENC        SOCIAL        SCIENC
+                     DUBEY        KUMARI        JYOTSN                      RANJAN        KHURAN        KUMARI         DUBEY
+
+Tuesday             SCIENC         HINDI         MATHS        SOCIAL        SCIENC       SOCIAL*        COMPUT        SCIENC
+                     DUBEY        KUMARI        JYOTSN        KUMARI        KHURAN         SINGH         SINGH         DUBEY
+
+Wednesday           SCIENC         HINDI       SOCIAL*        SOCIAL         HINDI        SCIENC         MATHS         HINDI
+                     DUBEY        KUMARI         SINGH        KUMARI        KUMARI        KHURAN        JYOTSN        KUMARI
+
+Thursday            SCIENC         HINDI         MATHS           ART        SOCIAL       SCIENC*        COMPUT         MATHS
+                     DUBEY        KUMARI        JYOTSN        SACHIN        KUMARI        KHURAN         SINGH        JYOTSN
+
+Friday              SCIENC        HINDI*         MATHS        SOCIAL           LIB        SCIENC         MUSIC         MATHS
+                     DUBEY        KUMARI        JYOTSN        KUMARI        KUMARI        KHURAN         SARAN        JYOTSN
+
+Saturday            SCIENC         HINDI         MATHS                     SOCIAL*        SCIENC        SCIENC        SCIENC
+                     DUBEY        KUMARI        JYOTSN                      KUMARI        KHURAN         DUBEY         DUBEY
+
+
+==========================================================================================
+  CLASS: 5A
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              MATHS*         MATHS         MATHS        SOCIAL        SCIENC        COMPUT        SCIENC              
+                     KUMAR         KUMAR         KUMAR        KUMARI        CHOUDH        SHARMA        PALLAV              
+
+Tuesday             SOCIAL        SCIENC        HINDI*        SCIENC                         PHE         MATHS        SANSKR
+                    KUMARI        CHOUDH        PANDEY        PALLAV                       RAHUL         KUMAR        KUMARI
+
+Wednesday            HINDI        SCIENC        SOCIAL         MATHS        SOCIAL        SCIENC        SANSKR         MATHS
+                    PANDEY        CHOUDH        KUMARI         KUMAR        KUMARI        PALLAV        KUMARI         KUMAR
+
+Thursday            SOCIAL         MATHS        SCIENC        HINDI*        COMPUT        SANSKR        SOCIAL       SCIENC*
+                    KUMARI         KUMAR        PALLAV        PANDEY        SHARMA        KUMARI        KUMARI        CHOUDH
+
+Friday              MATHS*         MATHS       SCIENC*           ART        SCIENC        SCIENC        SANSKR       SOCIAL*
+                     KUMAR         KUMAR        PALLAV        SACHIN        PALLAV        CHOUDH        KUMARI        KUMARI
+
+Saturday             MATHS        SCIENC       SCIENC*        SOCIAL         MUSIC         HINDI         MATHS         MATHS
+                     KUMAR        CHOUDH        PALLAV        KUMARI        MISHRA        PANDEY         KUMAR         KUMAR
+
+
+==========================================================================================
+  CLASS: 5B
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              COMPUT        SCIENC         MATHS        SCIENC         MATHS         HINDI        SOCIAL        SANSKR
+                     SINGH        KUMARI        SAKSHI         DUBEY         MISRA        PANDEY         SINGH        MISHRA
+
+Tuesday            COMPUT*        SCIENC         MATHS         HINDI         MUSIC        SCIENC       SOCIAL*         MATHS
+                     SINGH        KUMARI        SAKSHI        PANDEY        MISHRA         DUBEY         SINGH        SAKSHI
+
+Wednesday           COMPUT        SCIENC         MATHS        SCIENC        SANSKR        SOCIAL           PHE           ART
+                     SINGH        KUMARI        SAKSHI         DUBEY        MISHRA         SINGH        BRAJES        KUMARI
+
+Thursday           COMPUT*        SANSKR         MATHS           LIB        SCIENC        SOCIAL         HINDI       SCIENC*
+                     SINGH        MISHRA        SAKSHI        KUMARI         DUBEY         SINGH        PANDEY        KUMARI
+
+Friday                            SCIENC         MATHS        SOCIAL        SCIENC        HINDI*        SOCIAL        SCIENC
+                                  KUMARI        SAKSHI         SINGH         DUBEY        PANDEY         SINGH         DUBEY
+
+Saturday            COMPUT        SCIENC       SCIENC*         MATHS         HINDI        SANSKR        COMPUT        COMPUT
+                     SINGH        KUMARI         DUBEY        SAKSHI        PANDEY        MISHRA         SINGH         SINGH
+
+
+==========================================================================================
+  CLASS: 5C
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC         MUSIC        SCIENC         HINDI         MATHS        SOCIAL        SANSKR       SCIENC*
+                    THAKUR        MISHRA        KUMARI        KUMARI         KUMAR        KALPAN        MISHRA        THAKUR
+
+Tuesday             SCIENC       SMART *        SCIENC         HINDI         MATHS        SOCIAL        COMPUT       SCIENC*
+                    THAKUR        KUMARI        KUMARI        KUMARI         KUMAR        KALPAN        SHARMA        THAKUR
+
+Wednesday           SCIENC           ART        SCIENC           LIB       COMPUT*        SANSKR         MATHS        SOCIAL
+                    THAKUR        KUMARI        KUMARI        KUMARI        SHARMA        MISHRA         KUMAR        KALPAN
+
+Thursday            SCIENC         MATHS        SCIENC        HINDI*         MATHS        SCIENC        SOCIAL         MATHS
+                    THAKUR         KUMAR        KUMARI        KUMARI         KUMAR         DUBEY        KALPAN         MISRA
+
+Friday              SCIENC        SANSKR           PHE         HINDI        SCIENC        SOCIAL         MATHS       SCIENC*
+                    THAKUR        MISHRA        BRAJES        KUMARI        KUMARI        KALPAN         KUMAR        THAKUR
+
+Saturday            SCIENC       SOCIAL*        SCIENC         HINDI         MATHS                      SCIENC        SCIENC
+                    THAKUR        KALPAN        KUMARI        KUMARI         KUMAR                      THAKUR        THAKUR
+
+
+==========================================================================================
+  CLASS: 5D
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               MATHS       SOCIAL*        SCIENC         MATHS        SCIENC        SANSKR        HINDI*         MATHS
+                     KUMAR        KUMARI        KUMARI         KUMAR         DUBEY        MISHRA        KUMARI         KUMAR
+
+Tuesday              MATHS        SOCIAL        SANSKR        MATHS*       SCIENC*        SCIENC         HINDI         MATHS
+                     KUMAR        KUMARI        MISHRA         KUMAR         DUBEY        KUMARI        KUMARI         KUMAR
+
+Wednesday            MATHS        SOCIAL        SCIENC                                    SCIENC           LIB         MUSIC
+                     KUMAR        KUMARI        KUMARI                                     DUBEY        KUMARI        MISHRA
+
+Thursday             MATHS        SOCIAL       SCIENC*        SCIENC        SANSKR        COMPUT         HINDI        MATHS*
+                     KUMAR        KUMARI        KUMARI         DUBEY        MISHRA         SINGH        KUMARI         KUMAR
+
+Friday               MATHS        SOCIAL        SCIENC        SCIENC        SANSKR           ART         HINDI         MATHS
+                     KUMAR        KUMARI        KUMARI         DUBEY        MISHRA        KUMARI        KUMARI         KUMAR
+
+Saturday             MATHS        SOCIAL        COMPUT        SCIENC        SCIENC         HINDI         MATHS         MATHS
+                     KUMAR        KUMARI         SINGH        KUMARI         DUBEY        KUMARI         KUMAR         KUMAR
+
+
+==========================================================================================
+  CLASS: 5E
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              HINDI*         MATHS        SCIENC        SCIENC        SOCIAL         MUSIC        SCIENC        COMPUT
+                     MADHU         MISRA        THAKUR        KUMARI        KALPAN         SARAN         DUBEY         SINGH
+
+Tuesday              HINDI         MATHS        SCIENC        SOCIAL       SCIENC*                      SANSKR         MATHS
+                     MADHU         MISRA        THAKUR        KALPAN        KUMARI                      MISHRA         MISRA
+
+Wednesday            HINDI         MATHS        SANSKR        SOCIAL        SCIENC       COMPUT*        SCIENC         MATHS
+                     MADHU         MISRA        MISHRA        KALPAN        KUMARI        SHARMA        THAKUR         MISRA
+
+Thursday             HINDI         MATHS        SANSKR        SOCIAL        SCIENC       COMPUT*                     SCIENC*
+                     MADHU         MISRA        MISHRA        KALPAN        KUMARI        SHARMA                      THAKUR
+
+Friday               HINDI         MATHS        SCIENC           LIB        SCIENC        COMPUT           ART       SOCIAL*
+                     MADHU         MISRA        THAKUR        KUMARI        KUMARI         SINGH        KUMARI        KALPAN
+
+Saturday             HINDI         MATHS        SCIENC        SOCIAL        SANSKR        SCIENC         HINDI         HINDI
+                     MADHU         MISRA        THAKUR        KALPAN        MISHRA        KUMARI         MADHU         MADHU
+
+
+==========================================================================================
+  CLASS: 5F
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        SANSKR         MATHS       SOCIAL*        SCIENC           ART         HINDI         MATHS
+                     SINGH        MISHRA         MISRA        KUMARI        THAKUR        SACHIN         SINHA         MISRA
+
+Tuesday             SCIENC        SOCIAL       SOCIAL*        COMPUT        SCIENC         MATHS         HINDI       SCIENC*
+                     SINGH        KUMARI        KALPAN         KUMAR        THAKUR         MISRA         SINHA         SINGH
+
+Wednesday           SANSKR        SOCIAL         MATHS        SCIENC       SCIENC*           PHE         HINDI              
+                    MISHRA        KUMARI         MISRA         SINGH        THAKUR         RAHUL         SINHA              
+
+Thursday            SCIENC        SCIENC         MATHS        SANSKR        SOCIAL        COMPUT        HINDI*        SCIENC
+                     SINGH        THAKUR         MISRA        MISHRA        KUMARI         KUMAR         SINHA         DUBEY
+
+Friday              SCIENC        SOCIAL         MATHS         MUSIC        SCIENC         HINDI           LIB         MATHS
+                     SINGH        KUMARI         MISRA         SARAN        THAKUR         SINHA        KUMARI         MISRA
+
+Saturday            SCIENC        SANSKR       SOCIAL*        SOCIAL        SCIENC         MATHS        SCIENC        SCIENC
+                     SINGH        MISHRA        KALPAN        KUMARI        THAKUR         MISRA         SINGH         SINGH
+
+
+==========================================================================================
+  CLASS: 5G
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               HINDI         MATHS       SCIENC*        SCIENC        SOCIAL           LIB       SOCIAL*         MATHS
+                     SINGH         SINGH        KHURAN        THAKUR        KUMARI        KUMARI        KALPAN         SINGH
+
+Tuesday             SANSKR         MATHS                      SCIENC        HINDI*        SOCIAL        SCIENC        SCIENC
+                    MISHRA         SINGH                      THAKUR         SINGH        KUMARI        KHURAN        MISHRA
+
+Wednesday            HINDI        SANSKR        SCIENC        SCIENC       COMPUT*        SOCIAL         MATHS          ART*
+                     SINGH        MISHRA        KHURAN        THAKUR         KUMAR        KUMARI         SINGH        SACHIN
+
+Thursday            SANSKR         MATHS        SCIENC       SCIENC*       SCIENC*        SOCIAL                       HINDI
+                    MISHRA         SINGH        KHURAN        THAKUR        THAKUR        KUMARI                       SINGH
+
+Friday               HINDI        SCIENC        COMPUT        SANSKR       SOCIAL*       SOCIAL*        SCIENC         MATHS
+                     SINGH        THAKUR         KUMAR        MISHRA        KALPAN        KUMARI        KHURAN         SINGH
+
+Saturday             HINDI         MATHS        SCIENC         MUSIC         MATHS        SOCIAL         HINDI         HINDI
+                     SINGH         SINGH        KHURAN         SARAN         MISRA        KUMARI         SINGH         SINGH
+
+
+==========================================================================================
+  CLASS: 6A
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               HINDI         MATHS        SANSKR        SCIENC        SCIENC           ART        SMART         COMPUT
+                     SINHA         KUMAR        SARRAF        CHOUDH        MINAKS        KUMARI        MISHRA        PANDEY
+
+Tuesday              HINDI         MATHS        SOCIAL        SANSKR        COMPUT       SCIENC*        SCIENC        SCIENC
+                     SINHA         KUMAR        CHOUDH        SARRAF        PANDEY        MINAKS        MISHRA        PALLAV
+
+Wednesday            HINDI       SOCIAL*        SANSKR         MATHS        SCIENC           LIB        SCIENC         MATHS
+                     SINHA        SHARAN        SARRAF         KUMAR        MISHRA        KUMARI         KUMAR         KUMAR
+
+Thursday             HINDI         MATHS         MUSIC        SCIENC        SOCIAL        SCIENC        SCIENC        SCIENC
+                     SINHA         KUMAR        MISHRA        MISHRA        SHARAN        CHOUDH        MISHRA         KUMAR
+
+Friday              HINDI*        SCIENC         MATHS        SANSKR        COMPUT           PHE        SCIENC        SOCIAL
+                     SINHA         KUMAR         KUMAR        SARRAF        PANDEY         RAHUL        MISHRA        SHARAN
+
+Saturday             HINDI        SOCIAL        SCIENC         MATHS                      SOCIAL         HINDI         HINDI
+                     SINHA        CHOUDH         KUMAR         KUMAR                      SHARAN         SINHA         SINHA
+
+
+==========================================================================================
+  CLASS: 6B
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC         MATHS         HINDI        SANSKR        COMPUT       SCIENC*           ART        SCIENC
+                    PALLAV         KUMAR        PANDEY        SARRAF         KUMAR         KUMAR        KUMARI        PALLAV
+
+Tuesday             SCIENC         MATHS        SOCIAL        SCIENC         HINDI         MUSIC        SCIENC         MATHS
+                    PALLAV         KUMAR        SHARAN        MINAKS        PANDEY        MISHRA         KUMAR         KUMAR
+
+Wednesday          SCIENC*         MATHS       SOCIAL*        SCIENC        SANSKR         HINDI        SOCIAL        SCIENC
+                    PALLAV         KUMAR        KALPAN        PALLAV        SARRAF        PANDEY        SHARAN        PALLAV
+
+Thursday           SCIENC*        SANSKR        SOCIAL        COMPUT        SCIENC        SCIENC         MATHS        HINDI*
+                    PALLAV        SARRAF        SHARAN         KUMAR        CHOUDH        PALLAV         KUMAR        PANDEY
+
+Friday              SCIENC         MATHS        SANSKR        SOCIAL        SCIENC           LIB           PHE        SCIENC
+                    PALLAV         KUMAR        SARRAF        KALPAN        CHOUDH        KUMARI         RAHUL        MINAKS
+
+Saturday            SCIENC         MATHS        SOCIAL        HINDI*        COMPUT         MATHS        SCIENC        SCIENC
+                    PALLAV         KUMAR        SHARAN        PANDEY         KUMAR        PODDAR        PALLAV        PALLAV
+
+
+==========================================================================================
+  CLASS: 6C
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC         MATHS        SOCIAL       SCIENC*         HINDI        COMPUT        SCIENC        SCIENC
+                    MINAKS        THAKUR         KUMAR         DUTTA        PANDEY        PANDEY        CHOUDH         DUTTA
+
+Tuesday              MATHS         MUSIC        SCIENC        SANSKR       SCIENC*       SOCIAL*         HINDI        SCIENC
+                    THAKUR        MISHRA         DUTTA        MISHRA        RANJAN         KUMAR        PANDEY         KUMAR
+
+Wednesday           SCIENC         HINDI        SCIENC       SCIENC*                                    SOCIAL         MATHS
+                    MINAKS        PANDEY         DUTTA        RANJAN                                    KALPAN        THAKUR
+
+Thursday             MATHS        SOCIAL        SOCIAL        SCIENC        HINDI*        SANSKR        SCIENC         MATHS
+                    THAKUR        KALPAN         KUMAR         DUTTA        PANDEY        MISHRA         KUMAR        THAKUR
+
+Friday               MATHS           ART       SCIENC*        SCIENC         HINDI        COMPUT        SCIENC        SMART 
+                    THAKUR        KUMARI        CHOUDH         DUTTA        PANDEY        PANDEY         SINGH        CHOUDH
+
+Saturday            SCIENC         MATHS        SANSKR        SCIENC           LIB        SOCIAL        SCIENC        SCIENC
+                    MINAKS        THAKUR        MISHRA         DUTTA        KUMARI         KUMAR        MINAKS        MINAKS
+
+
+==========================================================================================
+  CLASS: 6D
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SANSKR        COMPUT         MATHS       SCIENC*       SCIENC*        SCIENC        SOCIAL        SANSKR
+                    KUMARI         KUMAR        THAKUR         KUMAR         KUMAR        CHOUDH        SHARAN        KUMARI
+
+Tuesday            SCIENC*        SANSKR         MATHS        SCIENC        SOCIAL        SOCIAL         MATHS        SCIENC
+                       JHA        KUMARI        THAKUR         KUMAR        KALPAN        SHARAN        THAKUR         KUMAR
+
+Wednesday           SANSKR                       MATHS        SCIENC        SANSKR        SCIENC       SCIENC*        SCIENC
+                    KUMARI                      THAKUR         KUMAR        KUMARI         KUMAR         KUMAR        CHOUDH
+
+Thursday            SANSKR           PHE         MATHS        SCIENC        SANSKR        SCIENC           LIB        SOCIAL
+                    KUMARI         RAHUL        THAKUR         KUMAR        KUMARI         KUMAR        KUMARI        KALPAN
+
+Friday              SCIENC       SANSKR*         MATHS        SCIENC           ART         MATHS       SOCIAL*        SANSKR
+                       JHA        KUMARI        THAKUR         KUMAR        KUMARI        PODDAR        SHARAN        KUMARI
+
+Saturday            SANSKR        SOCIAL        MUSIC*        SCIENC         MATHS        COMPUT        SANSKR        SANSKR
+                    KUMARI        SHARAN        MISHRA         KUMAR        THAKUR         KUMAR        KUMARI        KUMARI
+
+
+==========================================================================================
+  CLASS: 6E
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               HINDI           ART       SCIENC*        SCIENC       SANSKR*        SCIENC        MATHS*         MUSIC
+                    KUMARI        SACHIN        KURIAK        KUMARI        SARRAF         KUMAR         KUMAR         SARAN
+
+Tuesday              HINDI         MATHS       SCIENC*        SCIENC        SOCIAL       SCIENC*        SCIENC         MATHS
+                    KUMARI         KUMAR         KUMAR         KUMAR         KUMAR         KUMAR        MINAKS         KUMAR
+
+Wednesday            HINDI         MATHS        SCIENC        SANSKR       SOCIAL*        SCIENC        COMPUT        SOCIAL
+                    KUMARI         KUMAR        KURIAK        SARRAF        KALPAN         KUMAR        PANDEY         KUMAR
+
+Thursday             HINDI           LIB       SCIENC*        SANSKR         MATHS        SCIENC                      SCIENC
+                    KUMARI        KUMARI         KUMAR        SARRAF         KUMAR         KUMAR                      MINAKS
+
+Friday              HINDI*        SCIENC        SOCIAL        SCIENC       SCIENC*         MATHS        SOCIAL        SANSKR
+                    KUMARI         KUMAR        KALPAN        KUMARI        MISHRA         KUMAR         KUMAR        SARRAF
+
+Saturday             HINDI        COMPUT         MATHS        SOCIAL           PHE        SCIENC         HINDI         HINDI
+                    KUMARI        PANDEY         KUMAR         KUMAR        BRAJES         KUMAR        KUMARI        KUMARI
+
+
+==========================================================================================
+  CLASS: 6F
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               MATHS        SCIENC                      SANSKR       SCIENC*        SOCIAL         HINDI        SCIENC
+                     KUMAR        PALLAV                      MISHRA         DUTTA         KUMAR         SINGH           JHA
+
+Tuesday              MATHS        SCIENC        SCIENC       SCIENC*        SCIENC        SANSKR        SCIENC        HINDI*
+                     KUMAR        PALLAV        KURIAK         DUTTA        KUMARI        MISHRA        PALLAV         SINGH
+
+Wednesday            MATHS        SCIENC        COMPUT       SCIENC*                      SOCIAL         HINDI         MATHS
+                     KUMAR        PALLAV         KUMAR        KUMARI                       KUMAR         SINGH         KUMAR
+
+Thursday             MATHS       SCIENC*        COMPUT         MUSIC        SOCIAL        SOCIAL         HINDI        SANSKR
+                     KUMAR        PALLAV         KUMAR         SARAN        KALPAN         KUMAR         SINGH        MISHRA
+
+Friday               MATHS        SCIENC        SCIENC        SCIENC         HINDI       SOCIAL*        SCIENC         MATHS
+                     KUMAR        PALLAV        KURIAK           JHA         SINGH         KUMAR        PALLAV         KUMAR
+
+Saturday             MATHS        SCIENC           LIB        SANSKR           ART        SOCIAL         MATHS         MATHS
+                     KUMAR        PALLAV        KUMARI        MISHRA        SACHIN        KALPAN         KUMAR         KUMAR
+
+
+==========================================================================================
+  CLASS: 6G
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SOCIAL        SANSKR        SANSKR        SCIENC         MATHS        SOCIAL       SCIENC*       SOCIAL*
+                    KUMARI        KUMARI        MISHRA        PALLAV        SAKSHI        KUMARI         KUMAR        KUMARI
+
+Tuesday              MATHS        COMPUT           ART        SCIENC        SCIENC        SOCIAL        SCIENC        SANSKR
+                    SAKSHI         SINGH        SACHIN        KURIAK        PALLAV        KUMARI        KUMARI        MISHRA
+
+Wednesday            MATHS       SANSKR*           LIB        SCIENC        SCIENC        SCIENC        SANSKR        SOCIAL
+                    SAKSHI        KUMARI        KUMARI        MINAKS        PALLAV        KURIAK        MISHRA        KUMARI
+
+Thursday             MATHS        SANSKR        SCIENC        SCIENC       SCIENC*        SOCIAL           PHE        SOCIAL
+                    SAKSHI        KUMARI        KURIAK        KUMARI        PALLAV        KUMARI         RAHUL        KUMARI
+
+Friday               MATHS                      SANSKR        SCIENC         MATHS       SCIENC*        SANSKR        SCIENC
+                    SAKSHI                      KUMARI         KUMAR        SAKSHI        MINAKS        MISHRA        PALLAV
+
+Saturday            SOCIAL         MUSIC         MATHS        COMPUT        SANSKR        SCIENC        SOCIAL        SOCIAL
+                    KUMARI         SARAN        SAKSHI         SINGH        KUMARI        PALLAV        KUMARI        KUMARI
+
+
+==========================================================================================
+  CLASS: 6H
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SANSKR       SCIENC*           ART         HINDI        SOCIAL         MATHS        SOCIAL        SCIENC
+                    SARRAF         DUBEY        SACHIN         SINHA        SHARAN         KUMAR        KUMARI        KUMARI
+
+Tuesday             SANSKR        SCIENC        SCIENC        COMPUT         MATHS         HINDI           PHE       SCIENC*
+                    SARRAF         DUBEY         SINGH        SHARMA         KUMAR         SINHA        BRAJES        KURIAK
+
+Wednesday           SANSKR        SCIENC         MATHS       SCIENC*         HINDI        SOCIAL         MATHS       SCIENC*
+                    SARRAF         DUBEY         KUMAR           JHA         SINHA        SHARAN         KUMAR         DUBEY
+
+Thursday                          SOCIAL        SCIENC        SOCIAL        SCIENC         MATHS        SCIENC        SCIENC
+                                  SHARAN         DUBEY        KUMARI        KUMARI         KUMAR         SINGH        KURIAK
+
+Friday              SANSKR        SCIENC           LIB        COMPUT        HINDI*        SOCIAL         MATHS         MUSIC
+                    SARRAF         DUBEY        KUMARI        SHARMA         SINHA        SHARAN         KUMAR         SARAN
+
+Saturday            SANSKR        SCIENC        SCIENC         MATHS         HINDI       SCIENC*        SANSKR        SANSKR
+                    SARRAF         DUBEY           JHA         KUMAR         SINHA         DUBEY        SARRAF        SARRAF
+
+
+==========================================================================================
+  CLASS: 7A
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SOCIAL         MATHS       SOCIAL*        SOCIAL        SANSKR         HINDI        SOCIAL        SCIENC
+                    CHOUDH         SINGH        CHOUDH         KUMAR         DUBEY         SINGH        CHOUDH         SINGH
+
+Tuesday            SCIENC*         MATHS        SANSKR         HINDI        SCIENC        SCIENC       SCIENC*         MATHS
+                    MISHRA         SINGH         DUBEY         SINGH         SINGH        MISHRA        KUMARI         SINGH
+
+Wednesday           SOCIAL         MUSIC         MATHS        SOCIAL        SCIENC         HINDI        COMPUT       SCIENC*
+                    CHOUDH         SARAN         SINGH         KUMAR         SINGH         SINGH         KUMAR        MINAKS
+
+Thursday            SOCIAL         MATHS        SCIENC        SANSKR        SCIENC           PHE        SCIENC       SOCIAL*
+                    CHOUDH         SINGH        MISHRA         DUBEY         SINGH         RAHUL        MINAKS         KUMAR
+
+Friday                 LIB        SOCIAL         MATHS        SCIENC        SCIENC        COMPUT       SOCIAL*         HINDI
+                    DEEPAK         KUMAR         SINGH        KUMARI         SINGH         KUMAR        CHOUDH         SINGH
+
+Saturday            SANSKR         MATHS                         ART        SCIENC         HINDI        SOCIAL        SOCIAL
+                     DUBEY         SINGH                      SACHIN         SINGH         SINGH        CHOUDH        CHOUDH
+
+
+==========================================================================================
+  CLASS: 7B
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               HINDI        SOCIAL           LIB                       MATHS         MUSIC        SCIENC        SCIENC
+                    VIBHAK        (V.P.)        DEEPAK                       SINGH        MISHRA        MISHRA        MISHRA
+
+Tuesday              HINDI                       MATHS       SCIENC*        SCIENC        SANSKR        COMPUT           ART
+                    VIBHAK                       SINGH        KUMARI        MINAKS        SARRAF         KUMAR        SACHIN
+
+Wednesday            HINDI        SOCIAL       SCIENC*                       MATHS         MATHS           PHE       SOCIAL*
+                    VIBHAK        (V.P.)        MISHRA                       SINGH        PODDAR          AZIZ        CHOUDH
+
+Thursday             HINDI        SCIENC         MATHS        SCIENC        SOCIAL        SANSKR        COMPUT         MATHS
+                    VIBHAK        MISHRA         SINGH        KUMARI        CHOUDH        SARRAF         KUMAR         SINGH
+
+Friday               HINDI        SOCIAL        SCIENC                       MATHS        SANSKR        SCIENC              
+                    VIBHAK        (V.P.)        MISHRA                       SINGH        SARRAF        MISHRA              
+
+Saturday             HINDI       SOCIAL*         MATHS                      SANSKR       SCIENC*         HINDI         HINDI
+                    VIBHAK        (V.P.)         SINGH                      SARRAF        MINAKS        VIBHAK        VIBHAK
+
+
+==========================================================================================
+  CLASS: 7C
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday             SCIENC*        SCIENC        SOCIAL        SANSKR         HINDI        SCIENC         MATHS        COMPUT
+                    KUMARI        RANJAN        (V.P.)         DUBEY        VIBHAK        MINAKS        CHAUDH         KUMAR
+
+Tuesday              MATHS        SOCIAL           LIB        SCIENC        COMPUT         HINDI        MATHS*        SOCIAL
+                    CHAUDH        (V.P.)        DEEPAK        RANJAN         KUMAR        VIBHAK         MISRA         KUMAR
+
+Wednesday           SCIENC         MUSIC        SANSKR         MATHS         HINDI       SCIENC*        SCIENC        SOCIAL
+                    KUMARI        MISHRA         DUBEY        CHAUDH        VIBHAK        MINAKS        RANJAN         KUMAR
+
+Thursday           SCIENC*         MATHS        SOCIAL        SOCIAL        SCIENC         HINDI        MATHS*        SANSKR
+                    KUMARI        CHAUDH        CHOUDH        (V.P.)        RANJAN        VIBHAK         MISRA         DUBEY
+
+Friday               MATHS        SCIENC         HINDI        SANSKR           ART           PHE         MATHS       SCIENC*
+                    CHAUDH        RANJAN        VIBHAK         DUBEY        SACHIN          AZIZ        CHAUDH         KUMAR
+
+Saturday            SCIENC                     SOCIAL*        SOCIAL         MATHS        SCIENC        SCIENC        SCIENC
+                     KUMAR                      CHOUDH        (V.P.)        CHAUDH        RANJAN        KUMARI        KUMARI
+
+
+==========================================================================================
+  CLASS: 7D
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        MATHS*        SCIENC        COMPUT        SANSKR         MATHS         HINDI       SCIENC*
+                     KUMAR        CHAUDH        CHOUDH         KUMAR          LILY        THAKUR        VIBHAK        MISHRA
+
+Tuesday             SCIENC         MUSIC        SANSKR        SOCIAL        SOCIAL         MATHS        SCIENC        COMPUT
+                     KUMAR         SARAN          LILY        RAKSHI        CHOUDH        THAKUR        MISHRA         KUMAR
+
+Wednesday           SCIENC         MATHS        SOCIAL        SANSKR        SCIENC         MATHS        SOCIAL         HINDI
+                     KUMAR        THAKUR        RAKSHI          LILY         KUMAR        THAKUR         KUMAR        VIBHAK
+
+Thursday            SCIENC         MATHS                      SANSKR       SCIENC*        MATHS*       SOCIAL*         HINDI
+                     KUMAR        THAKUR                        LILY        MINAKS        CHAUDH        RAKSHI        VIBHAK
+
+Friday              SCIENC           LIB        SOCIAL         HINDI                       MATHS        SOCIAL        SOCIAL
+                     KUMAR        DEEPAK        CHOUDH        VIBHAK                      THAKUR        RAKSHI         KUMAR
+
+Saturday            SCIENC           ART        SCIENC         HINDI        SCIENC        MATHS*        SCIENC        SCIENC
+                     KUMAR        SACHIN        MINAKS        VIBHAK        CHOUDH        THAKUR         KUMAR         KUMAR
+
+
+==========================================================================================
+  CLASS: 7E
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SOCIAL        SOCIAL         MUSIC        SCIENC         MATHS        SANSKR        SCIENC         HINDI
+                    RAKSHI        CHOUDH         SARAN         SINGH        THAKUR        SARRAF        MINAKS         SINHA
+
+Tuesday             SOCIAL         MATHS        SCIENC                         PHE         HINDI        SANSKR        SCIENC
+                    RAKSHI        THAKUR        CHOUDH                      BRAJES         SINHA        SARRAF         SINGH
+
+Wednesday           SOCIAL        MATHS*       SOCIAL*        SCIENC         MATHS        SANSKR        SCIENC         HINDI
+                    RAKSHI        CHAUDH        CHOUDH         SINGH        THAKUR        SARRAF        MINAKS         SINHA
+
+Thursday           SOCIAL*        COMPUT        SCIENC         HINDI         MATHS        SCIENC        SANSKR        MATHS*
+                    RAKSHI        PANDEY         SINGH         SINHA        THAKUR         SINGH        SARRAF        CHAUDH
+
+Friday              SOCIAL         MATHS        SCIENC       SCIENC*         MATHS       SCIENC*         HINDI        SCIENC
+                    RAKSHI        THAKUR         SINGH        CHOUDH        THAKUR        MISHRA         SINHA         SINGH
+
+Saturday             MATHS           LIB        SCIENC        SCIENC        COMPUT           ART        SOCIAL        SOCIAL
+                    THAKUR        DEEPAK        MISHRA         SINGH        PANDEY        SACHIN        RAKSHI        RAKSHI
+
+
+==========================================================================================
+  CLASS: 7F
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               MATHS           LIB         MUSIC        SOCIAL         HINDI         MATHS        SCIENC        MATHS*
+                     SINGH        DEEPAK        MISHRA         KUMAR         SINGH         SINGH         KUMAR         SINGH
+
+Tuesday              MATHS         HINDI       SCIENC*       SOCIAL*        SCIENC        SOCIAL                      SANSKR
+                     SINGH         SINGH        MINAKS         KUMAR         KUMAR        CHOUDH                      SARRAF
+
+Wednesday            MATHS        SCIENC       SCIENC*        SCIENC         HINDI        MATHS*        SANSKR         MATHS
+                     SINGH         KUMAR        CHOUDH         KUMAR         SINGH         SINGH        SARRAF         SINGH
+
+Thursday             MATHS        SOCIAL                     SCIENC*        SCIENC         HINDI        SOCIAL        SANSKR
+                     SINGH         KUMAR                       KUMAR         KUMAR         SINGH        CHOUDH        SARRAF
+
+Friday               MATHS        SOCIAL        SCIENC        COMPUT        SCIENC         HINDI        SANSKR        SCIENC
+                     SINGH         KUMAR        MINAKS        PANDEY         KUMAR         SINGH        SARRAF         KUMAR
+
+Saturday             MATHS        SCIENC        SCIENC        COMPUT           ART         MATHS         MATHS         MATHS
+                     SINGH         KUMAR        CHOUDH        PANDEY        KUMARI        CHAUDH         SINGH         SINGH
+
+
+==========================================================================================
+  CLASS: 7G
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC           ART                      SOCIAL       SCIENC*         MATHS         HINDI        SANSKR
+                    MISHRA        KUMARI                      SHARAN        KUMARI         KUMAR         SINHA        SARRAF
+
+Tuesday            SCIENC*           PHE        SANSKR         HINDI        SCIENC         MATHS       SOCIAL*              
+                    MISHRA         RAHUL        SARRAF         SINHA           JHA         KUMAR        SHARAN              
+
+Wednesday                        SOCIAL*         MATHS        SOCIAL           LIB         MATHS                      COMPUT
+                                  CHOUDH         KUMAR        SHARAN        DEEPAK         KUMAR                      SHARMA
+
+Thursday                         SCIENC*        SANSKR                      SCIENC         MATHS        SOCIAL         HINDI
+                                  MISHRA        SARRAF                         JHA         KUMAR        SHARAN         SINHA
+
+Friday              SCIENC        COMPUT         HINDI        SOCIAL        SCIENC         MATHS        SCIENC        ROBOTI
+                    MISHRA        SHARMA         SINHA        CHOUDH        MISHRA         KUMAR        KUMARI        MISHRA
+
+Saturday            SCIENC        COMPUT        SANSKR         HINDI         MUSIC         MATHS        SCIENC              
+                    MISHRA        SHARMA        SARRAF         SINHA         SARAN         KUMAR        MISHRA              
+
+
+==========================================================================================
+  CLASS: 7H
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SOCIAL           PHE        SCIENC        COMPUT         HINDI        SCIENC         MATHS       SCIENC*
+                    SHARAN        BRAJES           JHA        PANDEY        KUMARI        RANJAN         KUMAR         KUMAR
+
+Tuesday             SANSKR       COMPUT*        SCIENC        SOCIAL         HINDI        SCIENC         MATHS        SOCIAL
+                     DUBEY         KUMAR        RANJAN         SINHA        KUMARI        RANJAN         KUMAR        SHARAN
+
+Wednesday           SOCIAL        SANSKR         HINDI                      SCIENC           ART         MATHS           LIB
+                    SHARAN         DUBEY        KUMARI                      RANJAN        KUMARI         KUMAR        DEEPAK
+
+Thursday            SANSKR        SCIENC         MATHS       SOCIAL*         HINDI        SCIENC         MATHS       SOCIAL*
+                     DUBEY        RANJAN         KUMAR         SINHA        KUMARI        KUMARI         KUMAR        SHARAN
+
+Friday              SOCIAL        COMPUT        SCIENC         MATHS         HINDI        SCIENC        SCIENC       SCIENC*
+                    SHARAN        PANDEY           JHA         KUMAR        KUMARI         KUMAR        RANJAN        KUMARI
+
+Saturday            COMPUT        SCIENC         MATHS        SCIENC        SANSKR         MUSIC        SOCIAL        SOCIAL
+                     KUMAR        RANJAN         KUMAR        RANJAN         DUBEY         SARAN        SHARAN        SHARAN
+
+
+==========================================================================================
+  CLASS: 7I
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday             COMPUT*        SCIENC           PHE         MATHS        SOCIAL         HINDI        COMPUT        SANSKR
+                    KRISHN         DUTTA         RAHUL         KUMAR         KUMAR        KUMARI        KRISHN          LILY
+
+Tuesday             SANSKR        SOCIAL       SCIENC*         MATHS        SCIENC         HINDI        SOCIAL              
+                      LILY         KUMAR           JHA         KUMAR         DUTTA        KUMARI         SINHA              
+
+Wednesday           COMPUT        SCIENC        SCIENC         MATHS         MUSIC         HINDI           ART         MATHS
+                    KRISHN         DUTTA         KUMAR         KUMAR         SARAN        KUMARI        KUMARI        CHAUDH
+
+Thursday            SCIENC        SOCIAL        SCIENC         MATHS        SCIENC         HINDI        COMPUT         MATHS
+                    CHOUDH         SINHA           JHA         KUMAR         DUTTA        KUMARI        KRISHN         KUMAR
+
+Friday              COMPUT        SCIENC         MATHS        SANSKR       SOCIAL*         HINDI        SCIENC           LIB
+                    KRISHN         DUTTA         KUMAR          LILY         KUMAR        KUMARI         DUTTA        DEEPAK
+
+Saturday            SANSKR        SOCIAL         MATHS       SCIENC*       SCIENC*        SCIENC        COMPUT        COMPUT
+                      LILY         KUMAR         KUMAR        CHOUDH         KUMAR         DUTTA        KRISHN        KRISHN
+
+
+==========================================================================================
+  CLASS: 7J
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        SANSKR        SCIENC         MATHS         HINDI        SCIENC        COMPUT         MATHS
+                    CHOUDH          LILY         SINGH         KUMAR         MADHU         DUTTA        PANDEY         KUMAR
+
+Tuesday             SOCIAL                      SCIENC         MATHS         HINDI       SCIENC*        SCIENC           LIB
+                     KUMAR                       KUMAR         KUMAR         MADHU        CHOUDH         DUTTA        DEEPAK
+
+Wednesday           SCIENC        SANSKR       SCIENC*        SOCIAL       SCIENC*         MATHS        SCIENC        SOCIAL
+                    CHOUDH          LILY           JHA         KUMAR        CHOUDH         KUMAR         DUTTA         SINHA
+
+Thursday            SOCIAL         MUSIC         MATHS        COMPUT         HINDI        SCIENC        SCIENC       SOCIAL*
+                     KUMAR        MISHRA         KUMAR        PANDEY         MADHU         DUTTA         DUTTA         SINHA
+
+Friday             SCIENC*         HINDI        SCIENC         MATHS        SANSKR        SCIENC           PHE           ART
+                    CHOUDH         MADHU         KUMAR         KUMAR          LILY         DUTTA        BRAJES        KUMARI
+
+Saturday           SOCIAL*        SCIENC        SCIENC        SANSKR         MATHS         HINDI        SCIENC        SCIENC
+                     KUMAR           JHA         DUTTA          LILY         KUMAR         MADHU        CHOUDH        CHOUDH
+
+
+==========================================================================================
+  CLASS: 8A
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        SCIENC         MATHS         HINDI        SOCIAL       SOCIAL*        SCIENC         MATHS
+                    KUMARI          ALAM        PODDAR        PATHAK         KUMAR        (V.P.)          ALAM        PODDAR
+
+Tuesday             SCIENC        SCIENC         MATHS        COMPUT        SANSKR        SOCIAL         HINDI           ART
+                       JHA          ALAM        PODDAR        PATHAK          LILY         KUMAR        PATHAK        KUMARI
+
+Wednesday           SCIENC         HINDI         MATHS        COMPUT       SCIENC*        SOCIAL        SCIENC         MATHS
+                    KUMARI        PATHAK        PODDAR        PATHAK        MISHRA        (V.P.)          ALAM        PODDAR
+
+Thursday           SCIENC*       SCIENC*         MATHS        SCIENC       SOCIAL*         HINDI        SANSKR        SCIENC
+                       JHA        KISHOR        PODDAR        KISHOR         KUMAR        PATHAK          LILY          ALAM
+
+Friday              SCIENC         HINDI        SOCIAL                      SCIENC           LIB        SOCIAL        SANSKR
+                    KUMARI        PATHAK        (V.P.)                        ALAM        DEEPAK         KUMAR          LILY
+
+Saturday            SCIENC        SCIENC         MATHS                      SANSKR         MUSIC        SCIENC        SCIENC
+                    MISHRA          ALAM        PODDAR                        LILY        MISHRA        KUMARI        KUMARI
+
+
+==========================================================================================
+  CLASS: 8B
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        SOCIAL         HINDI       SCIENC*           PHE         MATHS         MUSIC        SCIENC
+                       JHA           JHA         SINHA         KUMAR        BANERJ        PODDAR         SARAN          ALAM
+
+Tuesday                PHE           ART         HINDI        SOCIAL         MATHS       SCIENC*        SANSKR           PHE
+                    BANERJ        KUMARI         SINHA        (V.P.)        PODDAR        KUMARI          LILY        BANERJ
+
+Wednesday              PHE       SCIENC*         HINDI        COMPUT         MATHS        SOCIAL        SANSKR           PHE
+                    BANERJ           JHA         SINHA        KRISHN        PODDAR           JHA          LILY        BANERJ
+
+Thursday               PHE        SCIENC         HINDI        HINDI*         MATHS        SANSKR        SOCIAL        COMPUT
+                    BANERJ         KUMAR         SINHA        KUMARI        PODDAR          LILY        (V.P.)        KRISHN
+
+Friday                 PHE                       MATHS       SOCIAL*         MATHS        SCIENC                      SOCIAL
+                    BANERJ                      PODDAR        (V.P.)        PODDAR        KUMARI                         JHA
+
+Saturday               LIB           PHE         HINDI        SOCIAL         MATHS        SANSKR           PHE           PHE
+                    DEEPAK        BANERJ         SINHA           JHA        PODDAR          LILY        BANERJ        BANERJ
+
+
+==========================================================================================
+  CLASS: 8C
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        SOCIAL        SANSKR        SCIENC         HINDI       SCIENC*         MATHS        SCIENC
+                    RANJAN         SINHA          LILY        KUMARI         SINHA           JHA         KUMAR        RANJAN
+
+Tuesday             SCIENC        SCIENC         MUSIC       SOCIAL*         MATHS                         ART         MATHS
+                    RANJAN         KUMAR        MISHRA           JHA         KUMAR                      KUMARI         KUMAR
+
+Wednesday           SCIENC        SCIENC        SCIENC       SOCIAL*         HINDI        SANSKR         MATHS        SOCIAL
+                    RANJAN           JHA        RANJAN         SINHA         SINHA          LILY         KUMAR           JHA
+
+Thursday            SCIENC           LIB        SANSKR        SOCIAL         HINDI        COMPUT        SCIENC         MATHS
+                    RANJAN        DEEPAK          LILY           JHA         SINHA        PATHAK        RANJAN         KUMAR
+
+Friday              SCIENC        SANSKR        SCIENC           PHE         HINDI        SOCIAL       SCIENC*         MATHS
+                    RANJAN          LILY        KUMARI          AZIZ         SINHA         SINHA         KUMAR         KUMAR
+
+Saturday            SCIENC        SCIENC         MATHS        COMPUT         HINDI        SOCIAL        SCIENC        SCIENC
+                    RANJAN        KUMARI         KUMAR        PATHAK         SINHA           JHA        RANJAN        RANJAN
+
+
+==========================================================================================
+  CLASS: 8D
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               MATHS        SCIENC        SCIENC         HINDI        SCIENC         MATHS        SANSKR         MATHS
+                     KUMAR        KISHOR        MINAKS         SINHA        KUMARI         KUMAR          LILY         KUMAR
+
+Tuesday              MATHS        SANSKR        SOCIAL        COMPUT       SCIENC*        SCIENC         HINDI        SCIENC
+                     KUMAR          LILY        (V.P.)        KRISHN        MISHRA         SINGH         SINHA        KISHOR
+
+Wednesday            MATHS        SOCIAL       SOCIAL*         HINDI        SCIENC         MATHS         MUSIC        SANSKR
+                     KUMAR         SINHA        (V.P.)         SINHA        KISHOR         KUMAR         SARAN          LILY
+
+Thursday             MATHS       SCIENC*        SOCIAL        COMPUT        SCIENC        SOCIAL         HINDI        SCIENC
+                     KUMAR        MINAKS        (V.P.)        KRISHN        MISHRA         SINHA         SINHA        KISHOR
+
+Friday               MATHS       SCIENC*        SCIENC         HINDI       SCIENC*        SANSKR           LIB        SCIENC
+                     KUMAR        KUMARI        KISHOR         SINHA        KUMARI          LILY        DEEPAK        KISHOR
+
+Saturday             MATHS        SOCIAL        SOCIAL                                       ART         MATHS         MATHS
+                     KUMAR         SINHA        (V.P.)                                    KUMARI         KUMAR         KUMAR
+
+
+==========================================================================================
+  CLASS: 8E
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC       SCIENC*       SOCIAL*         MATHS        SCIENC         HINDI           LIB        SCIENC
+                    KISHOR        MINAKS        SHARAN        CHAUDH        KISHOR        VIBHAK        DEEPAK        KISHOR
+
+Tuesday             SCIENC       SCIENC*         MATHS        SOCIAL        SOCIAL           ART         HINDI        SANSKR
+                    KISHOR        KUMARI        CHAUDH        SHARAN         SINHA        KUMARI        VIBHAK          LILY
+
+Wednesday           SCIENC         HINDI        SANSKR        SCIENC        SOCIAL         MATHS        COMPUT        SCIENC
+                    KISHOR        VIBHAK          LILY        KUMARI        SHARAN        CHAUDH        PATHAK        MISHRA
+
+Thursday            SCIENC         HINDI        SOCIAL        SOCIAL         MUSIC        SCIENC         MATHS        SANSKR
+                    KISHOR        VIBHAK         SINHA        SHARAN        MISHRA        MISHRA        CHAUDH          LILY
+
+Friday              SCIENC        SCIENC           PHE       SOCIAL*         MATHS       SCIENC*        COMPUT         MATHS
+                    KISHOR        MINAKS         RAHUL         SINHA        CHAUDH        KISHOR        PATHAK        CHAUDH
+
+Saturday            SCIENC         HINDI        SANSKR         MATHS        SOCIAL                      SCIENC        SCIENC
+                    KISHOR        VIBHAK          LILY        CHAUDH        CHOUDH                      KISHOR        KISHOR
+
+
+==========================================================================================
+  CLASS: 8F
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        SCIENC                       HINDI           LIB        SCIENC        SOCIAL         MATHS
+                     SINGH           JHA                      VIBHAK        DEEPAK         SINGH         SINHA        CHAUDH
+
+Tuesday             SCIENC        SCIENC         MUSIC        SOCIAL         MATHS        SANSKR         MATHS         HINDI
+                     SINGH        MISHRA         SARAN         KUMAR        CHAUDH         DUBEY        CHAUDH        VIBHAK
+
+Wednesday           SCIENC        SCIENC        COMPUT        SANSKR        SOCIAL         HINDI         MATHS        SCIENC
+                     SINGH        KUMARI        PANDEY         DUBEY         KUMAR        VIBHAK        CHAUDH         SINGH
+
+Thursday            SCIENC       SCIENC*         HINDI         MATHS       SOCIAL*        SANSKR           ART        SCIENC
+                     SINGH           JHA        VIBHAK        CHAUDH         SINHA         DUBEY        SACHIN        KUMARI
+
+Friday              SCIENC       SCIENC*        COMPUT         MATHS       SOCIAL*         HINDI        SOCIAL           PHE
+                     SINGH        MISHRA        PANDEY        CHAUDH         KUMAR        VIBHAK         SINHA        BANERJ
+
+Saturday            SCIENC        SOCIAL         MATHS        SCIENC                      SANSKR        SCIENC        SCIENC
+                     SINGH         KUMAR        CHAUDH        KUMARI                       DUBEY         SINGH         SINGH
+
+
+==========================================================================================
+  CLASS: 8G
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SOCIAL         HINDI        SANSKR       SCIENC*         MATHS       SCIENC*        SCIENC        SOCIAL
+                     KUMAR        VIBHAK         DUBEY        KUMARI         KUMAR        KUMARI         SUNNY         SINHA
+
+Tuesday            SCIENC*        SCIENC         MATHS         HINDI        SANSKR       SCIENC*        COMPUT        SOCIAL
+                    MINAKS         SUNNY         KUMAR        VIBHAK         DUBEY        MISHRA        PATHAK         KUMAR
+
+Wednesday           SOCIAL           ART         MATHS         HINDI       SOCIAL*        SCIENC         MATHS        SANSKR
+                     KUMAR        SACHIN         KUMAR        VIBHAK         KUMAR         SUNNY         KUMAR         DUBEY
+
+Thursday            SCIENC                       MATHS         HINDI        SOCIAL        SCIENC        SCIENC           LIB
+                    MINAKS                       KUMAR        VIBHAK         KUMAR        MISHRA         SUNNY        DEEPAK
+
+Friday              SOCIAL        SOCIAL         MATHS        SCIENC        SCIENC        COMPUT        SANSKR         MUSIC
+                     KUMAR         SINHA         KUMAR        KUMARI         SUNNY        PATHAK         DUBEY        MISHRA
+
+Saturday            SOCIAL        SCIENC           PHE         MATHS        SCIENC         HINDI        SOCIAL        SOCIAL
+                     SINHA         SUNNY        BANERJ         KUMAR        MISHRA        VIBHAK         KUMAR         KUMAR
+
+
+==========================================================================================
+  CLASS: 8H
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        SCIENC         HINDI           LIB       SCIENC*         MATHS           PHE        SOCIAL
+                     DUTTA         KUMAR         SINGH        DEEPAK        KUMARI         KUMAR          AZIZ        RAKSHI
+
+Tuesday             SCIENC        SCIENC        COMPUT         MUSIC         MATHS         HINDI         MATHS       SCIENC*
+                     DUTTA           JHA        KRISHN         SARAN         KUMAR         SINGH         KUMAR        KUMARI
+
+Wednesday           SCIENC       SCIENC*         HINDI        SOCIAL        SANSKR        SCIENC         MATHS        SCIENC
+                     DUTTA         KUMAR         SINGH        RAKSHI         DUBEY         DUTTA         KUMAR         DUTTA
+
+Thursday            SCIENC         HINDI        SANSKR        SOCIAL         MATHS                      SCIENC           ART
+                     DUTTA         SINGH         DUBEY        CHOUDH         KUMAR                      KUMARI        SACHIN
+
+Friday              SCIENC       SOCIAL*        SANSKR        SOCIAL        SCIENC                       MATHS        SCIENC
+                     DUTTA        CHOUDH         DUBEY        RAKSHI         DUTTA                       KUMAR           JHA
+
+Saturday            SCIENC         HINDI        SANSKR        SOCIAL       SOCIAL*         MATHS        SCIENC        SCIENC
+                     DUTTA         SINGH         DUBEY        CHOUDH        RAKSHI         KUMAR         DUTTA         DUTTA
+
+
+==========================================================================================
+  CLASS: 8I
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               HINDI        SANSKR         MATHS        SCIENC        SOCIAL                      SCIENC        SOCIAL
+                    KUMARI         DUBEY         SINGH          ALAM        CHOUDH                      KUMARI         KUMAR
+
+Tuesday              HINDI           LIB        COMPUT        SCIENC         MATHS        SCIENC        SANSKR       SCIENC*
+                    KUMARI        DEEPAK        PANDEY          ALAM         SINGH          ALAM         DUBEY           JHA
+
+Wednesday            HINDI         MATHS        SOCIAL        SCIENC        SOCIAL        SANSKR         MUSIC       SCIENC*
+                    KUMARI         SINGH         KUMAR          ALAM        CHOUDH         DUBEY        MISHRA         KUMAR
+
+Thursday            SCIENC         HINDI                      SCIENC       SCIENC*         MATHS        SCIENC        SOCIAL
+                       JHA        KUMARI                        ALAM        KUMARI         SINGH          ALAM         KUMAR
+
+Friday               HINDI         MATHS       SOCIAL*        SCIENC        SOCIAL        SANSKR         MATHS           ART
+                    KUMARI         SINGH         KUMAR          ALAM        CHOUDH         DUBEY         SINGH        SACHIN
+
+Saturday             HINDI        SCIENC        COMPUT        SCIENC         MATHS       SCIENC*         HINDI         HINDI
+                    KUMARI         KUMAR        PANDEY          ALAM         SINGH        KUMARI        KUMARI        KUMARI
+
+
+==========================================================================================
+  CLASS: 8J
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               MATHS         HINDI        SOCIAL        SOCIAL        SCIENC                      SOCIAL        SANSKR
+                     KUMAR         SINGH        RAKSHI        CHOUDH        MISHRA                         JHA         DUBEY
+
+Tuesday              MATHS        SCIENC                      SANSKR        SCIENC        SOCIAL        SCIENC       SOCIAL*
+                     KUMAR         SINGH                       DUBEY         KUMAR        RAKSHI           JHA        CHOUDH
+
+Wednesday            MATHS         HINDI                      COMPUT         MATHS       SCIENC*           ART       SOCIAL*
+                     KUMAR         SINGH                       KUMAR         KUMAR        KUMARI        SACHIN        RAKSHI
+
+Thursday             MATHS        SOCIAL         HINDI           LIB                      SOCIAL        SCIENC        SCIENC
+                     KUMAR        RAKSHI         SINGH        DEEPAK                      CHOUDH           JHA        KUMARI
+
+Friday               MATHS         HINDI                      COMPUT        SANSKR         MUSIC                       MATHS
+                     KUMAR         SINGH                       KUMAR         DUBEY         SARAN                       KUMAR
+
+Saturday             MATHS                       HINDI        SANSKR       SCIENC*       SCIENC*         MATHS         MATHS
+                     KUMAR                       SINGH         DUBEY         KUMAR         KUMAR         KUMAR         KUMAR
+
+
+==========================================================================================
+  CLASS: 9A
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               MATHS        SCIENC       SCIENC*                      COMMER        SOCIAL        SCIENC        SANSKR
+                    PODDAR        PANDEY          BALA                       SINHA        SHAMBH        KISHOR        PRADHA
+
+Tuesday              MATHS        SCIENC        SOCIAL       SCIENC*        SANSKR        SCIENC        SCIENC         MATHS
+                    PODDAR        KISHOR           JHA           JHA        PRADHA        KISHOR        PANDEY        PODDAR
+
+Wednesday            MATHS        SANSKR        SCIENC                      SCIENC        SCIENC           LIB        SCIENC
+                    PODDAR        PRADHA        KISHOR                        BALA        KISHOR        DEEPAK           JHA
+
+Thursday             MATHS        SOCIAL        SOCIAL        SCIENC        SANSKR        SCIENC        SCIENC         MATHS
+                    PODDAR        SHAMBH           JHA           JHA        PRADHA          BALA        KISHOR        PODDAR
+
+Friday               MATHS       SCIENC*       SOCIAL*        COMPUT        SCIENC        COMMER                            
+                    PODDAR        PANDEY           JHA         JAMAL        KISHOR         SINHA                            
+
+Saturday             MATHS        SCIENC        SOCIAL        SOCIAL        COMPUT                      SANSKR        SCIENC
+                    PODDAR        KISHOR           JHA        SHAMBH         JAMAL                      PRADHA          BALA
+
+
+==========================================================================================
+  CLASS: 9B
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC         MATHS        COMPUT       SCIENC*       SCIENC*                       MATHS        SCIENC
+                     VERMA        PODDAR        PATHAK           JHA        NILANJ                      PODDAR         VERMA
+
+Tuesday             SCIENC         MATHS                         LIB       SOCIAL*        SOCIAL        SANSKR        SCIENC
+                     VERMA        PODDAR                      DEEPAK         KUMAR        (V.P.)        PRADHA         KUMAR
+
+Wednesday           SCIENC         MATHS        SCIENC        SOCIAL        SCIENC        SCIENC        SANSKR        SCIENC
+                     VERMA        PODDAR         KUMAR        (V.P.)           JHA        NILANJ        PRADHA         VERMA
+
+Thursday            SCIENC         MATHS                      SCIENC        SCIENC        SANSKR        SOCIAL        COMMER
+                     VERMA        PODDAR                      NILANJ         KUMAR        PRADHA         KUMAR         SINHA
+
+Friday              SCIENC         MATHS        COMMER        SOCIAL       SCIENC*        SCIENC        SANSKR         MATHS
+                     VERMA        PODDAR         SINHA         KUMAR         KUMAR           JHA        PRADHA        PODDAR
+
+Saturday            SCIENC         MATHS        COMPUT        SOCIAL        SANSKR        SOCIAL                            
+                     VERMA        PODDAR        PATHAK        (V.P.)        PRADHA         KUMAR                            
+
+
+==========================================================================================
+  CLASS: 9C
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SOCIAL       SCIENC*         MATHS        SCIENC         HINDI        COMPUT         MATHS       SCIENC*
+                     KUMAR         KUMAR         KUMAR        SHARMA        MISHRA         JAMAL         KUMAR        MISHRA
+
+Tuesday             SCIENC         MATHS        COMPUT        SCIENC       SOCIAL*        SCIENC        SCIENC        SCIENC
+                     KUMAR         KUMAR         JAMAL        SHARMA        SHAMBH        MISHRA        KUMARI        SHARMA
+
+Wednesday           SOCIAL        COMMER                                     MATHS        SCIENC         HINDI        SOCIAL
+                     KUMAR         SINHA                                     KUMAR        SHARMA        MISHRA        SHAMBH
+
+Thursday            SCIENC         MATHS       SCIENC*                       HINDI           PHE           LIB        SCIENC
+                    MISHRA         KUMAR        KUMARI                      MISHRA        BRAJES        DEEPAK        SHARMA
+
+Friday              SOCIAL        SCIENC        SCIENC         MATHS        COMMER        SCIENC         MATHS         HINDI
+                     KUMAR        KUMARI        SHARMA         KUMAR         SINHA        SHARMA         KUMAR        MISHRA
+
+Saturday            SOCIAL         HINDI        SOCIAL                      SCIENC        SCIENC        SCIENC         MATHS
+                     KUMAR        MISHRA        SHAMBH                      SHARMA        KUMARI         KUMAR         KUMAR
+
+
+==========================================================================================
+  CLASS: 9D
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        SOCIAL         MATHS        SCIENC         HINDI                      SCIENC       SCIENC*
+                     SUNNY        RAKSHI         KUMAR         KUMAR        PATHAK                       KUMAR        SHARMA
+
+Tuesday             COMMER         MATHS        SCIENC        SOCIAL                                    SOCIAL         HINDI
+                     SINHA         KUMAR         SUNNY        CHOUDH                                    RAKSHI        PATHAK
+
+Wednesday           SCIENC        SCIENC        COMPUT         MATHS        SCIENC       SOCIAL*         HINDI        SCIENC
+                     SUNNY         KUMAR        PATHAK         KUMAR        SHARMA        CHOUDH        PATHAK         KUMAR
+
+Thursday            SCIENC        SCIENC         MATHS           PHE        SCIENC         MATHS        COMMER        SOCIAL
+                     SUNNY         KUMAR         KUMAR         RAHUL         SUNNY         KUMAR         SINHA        RAKSHI
+
+Friday              SCIENC         MATHS        COMPUT         HINDI         MATHS        SOCIAL        SCIENC       SCIENC*
+                     SUNNY         KUMAR        PATHAK        PATHAK         KUMAR        CHOUDH        SHARMA         KUMAR
+
+Saturday            SCIENC         MATHS        SCIENC       SOCIAL*         HINDI        SCIENC                         LIB
+                     KUMAR         KUMAR         SUNNY        RAKSHI        PATHAK         SUNNY                      DEEPAK
+
+
+==========================================================================================
+  CLASS: 9E
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               MATHS         HINDI        SOCIAL        COMPUT        SCIENC        SOCIAL       SCIENC*        SCIENC
+                     KUMAR        PATHAK        MISHRA        PATHAK        SHARMA           JHA           JHA        KUMARI
+
+Tuesday              MATHS        SOCIAL        SCIENC         HINDI        SCIENC       SOCIAL*        SCIENC         MATHS
+                     KUMAR           JHA        KUMARI        PATHAK        SHARMA        MISHRA         KUMAR         KUMAR
+
+Wednesday            MATHS           PHE        SCIENC         HINDI        COMMER                      SCIENC        SCIENC
+                     KUMAR         RAHUL        SHARMA        PATHAK         SINHA                      SHARMA           JHA
+
+Thursday             MATHS         HINDI       SCIENC*        COMPUT        SCIENC        SOCIAL         MATHS        SCIENC
+                     KUMAR        PATHAK        KUMARI        PATHAK        SHARMA           JHA         KUMAR         KUMAR
+
+Friday               MATHS        SOCIAL        SOCIAL           LIB        SCIENC       SCIENC*        SCIENC        SCIENC
+                     KUMAR           JHA        MISHRA        DEEPAK        SHARMA         KUMAR           JHA        KUMARI
+
+Saturday             MATHS        COMMER         HINDI        SCIENC                                    SCIENC              
+                     KUMAR         SINHA        PATHAK        SHARMA                                    SHARMA              
+
+
+==========================================================================================
+  CLASS: 9F
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        COMPUT                                    SCIENC         MATHS       SOCIAL*         HINDI
+                    MISHRA        KRISHN                                      ALAM         KUMAR        RAKSHI        KUMARI
+
+Tuesday             SCIENC         HINDI        SCIENC        COMMER                         LIB         MATHS        SCIENC
+                      ALAM        KUMARI         KUMAR         SINHA                      DEEPAK         KUMAR        SHARMA
+
+Wednesday           SCIENC         MATHS        SOCIAL         HINDI        SCIENC        SOCIAL        COMMER        SCIENC
+                    MISHRA         KUMAR        SHAMBH        KUMARI          ALAM        RAKSHI         SINHA          ALAM
+
+Thursday                             PHE        SCIENC        SOCIAL       SCIENC*         MATHS        SOCIAL        SCIENC
+                                  BANERJ          ALAM        RAKSHI        SHARMA         KUMAR        SHAMBH         KUMAR
+
+Friday             SCIENC*        SCIENC        SOCIAL         HINDI         MATHS        SCIENC       SCIENC*         MATHS
+                    MISHRA          ALAM        RAKSHI        KUMARI         KUMAR          ALAM         KUMAR         KUMAR
+
+Saturday            COMPUT         MATHS         MATHS         HINDI        SCIENC        SCIENC        SOCIAL        SCIENC
+                    KRISHN         KUMAR         KUMAR        KUMARI         KUMAR          ALAM        SHAMBH        SHARMA
+
+
+==========================================================================================
+  CLASS: 9G
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SOCIAL        SCIENC        SCIENC         MATHS        SCIENC       SOCIAL*         HINDI        SCIENC
+                     SINHA        KUMARI        MISHRA         KUMAR         SUNNY         KUMAR        PATHAK          LATA
+
+Tuesday              HINDI         HINDI       SOCIAL*         MATHS        SCIENC        SCIENC           LIB              
+                    PATHAK        PATHAK         KUMAR         KUMAR        KUMARI         SUNNY        DEEPAK              
+
+Wednesday           SOCIAL        SCIENC         MATHS        COMMER       SCIENC*        COMPUT        SCIENC         MATHS
+                     SINHA         SUNNY         KUMAR         SINHA        KUMARI         JAMAL         SUNNY         KUMAR
+
+Thursday            SOCIAL        SCIENC        SCIENC         MATHS           PHE        SCIENC                      SCIENC
+                     KUMAR          LATA         SUNNY         KUMAR          AZIZ         SUNNY                      MISHRA
+
+Friday              SOCIAL        SCIENC        COMPUT         MATHS                                     MATHS         HINDI
+                     SINHA         SUNNY         JAMAL         KUMAR                                     KUMAR        PATHAK
+
+Saturday            SCIENC         HINDI       SCIENC*        COMMER        SCIENC         MATHS        SCIENC        SOCIAL
+                    KUMARI        PATHAK          LATA         SINHA         SUNNY         KUMAR        MISHRA         KUMAR
+
+
+==========================================================================================
+  CLASS: 9H
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        COMPUT         MATHS         HINDI         MATHS        SCIENC       SOCIAL*        COMMER
+                      ALAM        PANDEY        CHAUDH        KUMARI        CHAUDH        KUMARI        SHAMBH         SINHA
+
+Tuesday             SCIENC        SCIENC        SCIENC         MATHS         HINDI        SOCIAL        COMMER        SCIENC
+                    SHARMA        KUMARI          ALAM        CHAUDH        KUMARI           JHA         SINHA          ALAM
+
+Wednesday           SCIENC        SCIENC         MATHS        SOCIAL        SCIENC        SOCIAL        SCIENC         HINDI
+                      ALAM        SHARMA        CHAUDH           JHA         KUMAR        SHAMBH        KUMARI        KUMARI
+
+Thursday            SCIENC        SOCIAL         MATHS        SCIENC                       HINDI       SCIENC*              
+                      ALAM           JHA        CHAUDH        KUMARI                      KUMARI         KUMAR              
+
+Friday              SCIENC        SCIENC         MATHS       SOCIAL*        SCIENC           PHE         HINDI        SCIENC
+                      ALAM        SHARMA        CHAUDH        SHAMBH         KUMAR        BANERJ        KUMARI          ALAM
+
+Saturday            SCIENC         MATHS                                       LIB        COMPUT        SOCIAL         MATHS
+                      ALAM        CHAUDH                                    DEEPAK        PANDEY           JHA        CHAUDH
+
+
+==========================================================================================
+  CLASS: 9I
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday                           SCIENC*        SCIENC         MATHS        SCIENC         HINDI        SOCIAL         MATHS
+                                  KUMARI        KISHOR         KUMAR          LATA        KUMARI         KUMAR         KUMAR
+
+Tuesday             SOCIAL         MATHS        SCIENC        SOCIAL        SCIENC        COMMER       SCIENC*         HINDI
+                     KUMAR         KUMAR        KISHOR        MISHRA        KISHOR         SINHA          LATA        KUMARI
+
+Wednesday                            LIB         MATHS        SCIENC                                     HINDI        SCIENC
+                                  KUMARI         KUMAR        KISHOR                                    KUMARI        KUMARI
+
+Thursday            COMPUT         MATHS        SOCIAL       SOCIAL*        SCIENC        SCIENC         HINDI        SCIENC
+                     JAMAL         KUMAR        MISHRA         KUMAR        KISHOR        KUMARI        KUMARI           JHA
+
+Friday              COMPUT         MATHS         HINDI        SCIENC         MATHS       SCIENC*        SCIENC        COMMER
+                     JAMAL         KUMAR        KUMARI        KISHOR         KUMAR           JHA          LATA         SINHA
+
+Saturday            SCIENC         MATHS        SCIENC        SOCIAL        SCIENC                      SOCIAL        SCIENC
+                    KUMARI         KUMAR        KISHOR        MISHRA        KISHOR                       KUMAR           JHA
+
+
+==========================================================================================
+  CLASS: 9J
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               HINDI        SCIENC        MATHS*        COMMER       SOCIAL*        SOCIAL        SCIENC        SCIENC
+                    PATHAK        MISHRA         KUMAR         SINHA           JHA         SINHA        KUMARI        GARDNE
+
+Tuesday             COMPUT        SCIENC        SCIENC         MATHS        SCIENC        SOCIAL        SCIENC         MATHS
+                    KRISHN        GARDNE        KUMARI         KUMAR          LATA         SINHA        GARDNE         KUMAR
+
+Wednesday            HINDI        SCIENC        SCIENC         MATHS                      SCIENC       SOCIAL*        SCIENC
+                    PATHAK        KUMARI        GARDNE         KUMAR                      GARDNE           JHA        MISHRA
+
+Thursday             HINDI        COMPUT         MATHS        COMMER                                    SCIENC         MATHS
+                    PATHAK        KRISHN         KUMAR         SINHA                                    GARDNE         KUMAR
+
+Friday               HINDI        SCIENC        SCIENC         MATHS        SCIENC        SOCIAL       SCIENC*        SOCIAL
+                    PATHAK          LATA        MISHRA         KUMAR        GARDNE           JHA        KUMARI         SINHA
+
+Saturday             HINDI        SOCIAL         MATHS                                    SCIENC           LIB        SCIENC
+                    PATHAK           JHA         KUMAR                                    GARDNE        DEEPAK          LATA
+
+
+==========================================================================================
+  CLASS: 10A
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday                                          SOCIAL        SCIENC                      SANSKR         MATHS       SCIENC*
+                                                MISHRA        TIWARY                      PRADHA        MISHRA          BALA
+
+Tuesday            SCIENC*         MATHS        COMMER        SOCIAL        SCIENC        SANSKR        SOCIAL         MATHS
+                      LATA        MISHRA         SINHA        SHAMBH        TIWARY        PRADHA        MISHRA        MISHRA
+
+Wednesday            MATHS        SCIENC        SCIENC        COMPUT       SOCIAL*        SANSKR         MATHS        COMMER
+                    MISHRA          BALA        TIWARY          ROJI        MISHRA        PRADHA        MISHRA         SINHA
+
+Thursday            SCIENC                         LIB       SOCIAL*         MATHS                      SCIENC        SCIENC
+                      LATA                      DEEPAK        SHAMBH        MISHRA                      TIWARY        SHARMA
+
+Friday              SCIENC         MATHS        SCIENC        SOCIAL        SCIENC        SANSKR        SCIENC        SCIENC
+                    TIWARY        MISHRA          LATA        MISHRA          BALA        PRADHA        TIWARY        SHARMA
+
+Saturday            SOCIAL        SCIENC        SCIENC        SCIENC         MATHS        SCIENC        COMPUT        SANSKR
+                    SHAMBH        SHARMA        TIWARY          BALA        MISHRA        TIWARY          ROJI        PRADHA
+
+
+==========================================================================================
+  CLASS: 10B
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC                         PHE         MATHS        SANSKR        COMMER                            
+                    SHARMA                        AZIZ         KUMAR        PRADHA         SINHA                            
+
+Tuesday             SCIENC        SOCIAL        SCIENC         MATHS         MATHS        SCIENC        SOCIAL        SCIENC
+                    SHARMA        MISHRA        CHAUBE         KUMAR         KUMAR        PANDEY        SHAMBH         SINGH
+
+Wednesday           SCIENC                         LIB         MATHS        SANSKR        SCIENC        SOCIAL        SCIENC
+                    SHARMA                      DEEPAK         KUMAR        PRADHA        PANDEY        MISHRA        SHARMA
+
+Thursday            SCIENC       SOCIAL*        SANSKR         MATHS        COMMER         MATHS        SCIENC        SOCIAL
+                    SHARMA        MISHRA        PRADHA         KUMAR         SINHA         KUMAR        CHAUBE        SHAMBH
+
+Friday              SCIENC        SOCIAL        SCIENC         MATHS        SANSKR        SOCIAL        SCIENC        COMPUT
+                    SHARMA        MISHRA         SINGH         KUMAR        PRADHA        SHAMBH        CHAUBE         JAMAL
+
+Saturday            SCIENC        SANSKR        SCIENC        MATHS*       SCIENC*        COMPUT       SCIENC*        SCIENC
+                     SINGH        PRADHA        SHARMA         KUMAR        PANDEY         JAMAL        CHAUBE        SHARMA
+
+
+==========================================================================================
+  CLASS: 10C
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SANSKR         MATHS        SCIENC        SOCIAL        SCIENC        SCIENC        SCIENC        SOCIAL
+                    PRADHA        MISHRA         VERMA        (V.P.)           JHA         VERMA        NILANJ        MISHRA
+
+Tuesday             SANSKR                         PHE        SCIENC         MATHS        SCIENC        SMART               
+                    PRADHA                      BRAJES         VERMA        MISHRA           JHA        NILANJ              
+
+Wednesday           SANSKR        SOCIAL        SCIENC         MATHS        COMPUT        SCIENC        SCIENC         MATHS
+                    PRADHA        MISHRA        CHAUBE        MISHRA          ROJI         VERMA        NILANJ        MISHRA
+
+Thursday            SANSKR        SCIENC        SCIENC        SOCIAL       SCIENC*           LIB        SOCIAL         MATHS
+                    PRADHA        CHAUBE         VERMA        (V.P.)           JHA        DEEPAK        MISHRA        MISHRA
+
+Friday              SANSKR        SCIENC        SCIENC        COMMER                      SCIENC        SOCIAL         MATHS
+                    PRADHA         VERMA        CHAUBE         SINHA                       VERMA        MISHRA        MISHRA
+
+Saturday            SCIENC         MATHS       SCIENC*        SCIENC       SOCIAL*        COMPUT        COMMER         MATHS
+                    NILANJ        MISHRA        CHAUBE         VERMA        (V.P.)          ROJI         SINHA        MISHRA
+
+
+==========================================================================================
+  CLASS: 10D
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SOCIAL        SCIENC        COMMER         MATHS        COMPUT         HINDI        SCIENC         MATHS
+                    SHAMBH         KUMAR         SINHA        AKHTAR         JAMAL        MISHRA         VERMA        AKHTAR
+
+Tuesday                              PHE        SCIENC        SCIENC         MATHS         HINDI        POL.SC        SCIENC
+                                  BRAJES         VERMA         KUMAR        AKHTAR        MISHRA          RANI         VERMA
+
+Wednesday           SOCIAL         MATHS        SCIENC        SCIENC        POL.SC         HINDI                            
+                    SHAMBH        AKHTAR        SHARMA         VERMA          RANI        MISHRA                            
+
+Thursday           SCIENC*       SCIENC*       POL.SC*        SCIENC        COMPUT         MATHS       SCIENC*        SCIENC
+                    PANDEY         KUMAR          RANI         VERMA         JAMAL        AKHTAR        SHARMA         VERMA
+
+Friday              SOCIAL        SCIENC        SCIENC         MATHS        SCIENC         HINDI        POL.SC         MATHS
+                    SHAMBH         KUMAR        PANDEY        AKHTAR         VERMA        MISHRA          RANI        AKHTAR
+
+Saturday                           MATHS        COMMER        SCIENC        SCIENC           LIB        SCIENC         HINDI
+                                  AKHTAR         SINHA        PANDEY         VERMA        DEEPAK        SHARMA        MISHRA
+
+
+==========================================================================================
+  CLASS: 10E
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        COMMER         MATHS        SCIENC        SCIENC           LIB       SCIENC*              
+                    GARDNE         SINHA        AKHTAR          LATA        GARDNE        DEEPAK        MISHRA              
+
+Tuesday             SCIENC        SOCIAL        SOCIAL         MATHS        SCIENC         HINDI                      SCIENC
+                    GARDNE        RAKSHI        MISHRA        AKHTAR          BALA        PATHAK                      MISHRA
+
+Wednesday           SCIENC           PHE       SCIENC*         MATHS         HINDI        COMPUT       SCIENC*         MATHS
+                    GARDNE          AZIZ          LATA        AKHTAR        PATHAK        KRISHN          BALA        AKHTAR
+
+Thursday            SCIENC        COMMER        SCIENC         MATHS        SOCIAL        SOCIAL         HINDI        SCIENC
+                    GARDNE         SINHA          BALA        AKHTAR        MISHRA        RAKSHI        PATHAK        GARDNE
+
+Friday              SCIENC         MATHS         HINDI        SCIENC        SOCIAL       SOCIAL*         MATHS        COMPUT
+                    GARDNE        AKHTAR        PATHAK          BALA        RAKSHI        MISHRA        AKHTAR        KRISHN
+
+Saturday                                        SOCIAL         MATHS        SCIENC         HINDI        SCIENC        SCIENC
+                                                RAKSHI        AKHTAR        MISHRA        PATHAK          LATA        GARDNE
+
+
+==========================================================================================
+  CLASS: 10F
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               MATHS        SCIENC        COMPUT       SCIENC*       SOCIAL*         HINDI        SCIENC        SCIENC
+                    AKHTAR        SHARMA        KRISHN          BALA        RAKSHI        PATHAK          LATA        SHARMA
+
+Tuesday              MATHS        SCIENC                                    SOCIAL        COMMER        SOCIAL         MATHS
+                    AKHTAR        SHARMA                                    RAKSHI           KRI        MISHRA        AKHTAR
+
+Wednesday            MATHS        SCIENC        COMPUT        SOCIAL        SOCIAL         HINDI       SCIENC*        SCIENC
+                    AKHTAR        SHARMA        KRISHN        MISHRA        RAKSHI        PATHAK          LATA          BALA
+
+Thursday             MATHS        SCIENC        SCIENC        SCIENC         HINDI                      COMMER         MATHS
+                    AKHTAR        SHARMA        MISHRA          BALA        PATHAK                         KRI        AKHTAR
+
+Friday               MATHS        SCIENC                      SOCIAL         HINDI        SOCIAL        SCIENC        SCIENC
+                    AKHTAR        SHARMA                      MISHRA        PATHAK        RAKSHI        MISHRA        SHARMA
+
+Saturday             MATHS        SCIENC                         LIB        SCIENC       SCIENC*        SCIENC         HINDI
+                    AKHTAR        SHARMA                      DEEPAK          LATA        MISHRA          BALA        PATHAK
+
+
+==========================================================================================
+  CLASS: 10G
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               MATHS        COMPUT         HINDI        SOCIAL                                    SCIENC         MATHS
+                     KUMAR          ROJI        KUMARI        MISHRA                                    BANERJ         KUMAR
+
+Tuesday              MATHS       SCIENC*                     SCIENC*        SOCIAL        SCIENC        SCIENC        SCIENC
+                     KUMAR        MISHRA                      MISHRA           JHA          BALA        BANERJ        BANERJ
+
+Wednesday            MATHS         HINDI        SCIENC           LIB        SCIENC       SCIENC*                       MATHS
+                     KUMAR        KUMARI          BALA        DEEPAK        BANERJ        MISHRA                       KUMAR
+
+Thursday             MATHS        SCIENC        COMMER        SCIENC        SOCIAL        SOCIAL        COMPUT         HINDI
+                     KUMAR        BANERJ         SINHA        MISHRA           JHA        MISHRA          ROJI        KUMARI
+
+Friday               MATHS                      SCIENC        SCIENC        SOCIAL         HINDI        SCIENC        SCIENC
+                     KUMAR                        BALA        BANERJ           JHA        KUMARI        BANERJ        MISHRA
+
+Saturday             MATHS       SOCIAL*         HINDI        SCIENC       SCIENC*        COMMER        SCIENC        SOCIAL
+                     KUMAR        MISHRA        KUMARI        MISHRA          BALA         SINHA        BANERJ           JHA
+
+
+==========================================================================================
+  CLASS: 10H
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               HINDI        SCIENC        SCIENC        SOCIAL         MATHS        SCIENC        SCIENC        POL.SC
+                    MISHRA        GARDNE        NILANJ        SHAMBH        AKHTAR        GARDNE           JHA          RANI
+
+Tuesday             SCIENC         HINDI         MATHS       SCIENC*        SCIENC                       MATHS        POL.SC
+                      BALA        MISHRA        AKHTAR        NILANJ        GARDNE                      AKHTAR          RANI
+
+Wednesday           SCIENC         HINDI        COMMER        SCIENC         MATHS       SCIENC*        COMPUT        SCIENC
+                      BALA        MISHRA         SINHA        GARDNE        AKHTAR           JHA         JAMAL        GARDNE
+
+Thursday           SCIENC*        COMPUT         MATHS        SCIENC         MATHS         HINDI                            
+                      BALA         JAMAL        AKHTAR        GARDNE        AKHTAR        MISHRA                            
+
+Friday              SCIENC        SCIENC        SOCIAL           PHE        POL.SC         MATHS         HINDI        SCIENC
+                      BALA        GARDNE        SHAMBH         RAHUL          RANI        AKHTAR        MISHRA        NILANJ
+
+Saturday            SCIENC                         LIB        SCIENC         MATHS        SOCIAL       POL.SC*        COMMER
+                    GARDNE                      KUMARI           JHA        AKHTAR        SHAMBH          RANI         SINHA
+
+
+==========================================================================================
+  CLASS: 10I
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC        SCIENC         MATHS        SOCIAL        SOCIAL         MATHS        SCIENC        SCIENC
+                     KUMAR         VERMA         KUMAR           JHA        MISHRA         KUMAR        SHARMA         KUMAR
+
+Tuesday             SCIENC         MATHS                       HINDI        SCIENC        COMPUT        SCIENC        COMMER
+                     KUMAR         KUMAR                      KUMARI         VERMA          ROJI         VERMA           KRI
+
+Wednesday          SCIENC*        COMPUT        SOCIAL       SCIENC*         HINDI         MATHS        SCIENC        SOCIAL
+                     KUMAR          ROJI           JHA         KUMAR        KUMARI         KUMAR         VERMA        MISHRA
+
+Thursday             HINDI        SCIENC                                    COMMER                      SOCIAL         MATHS
+                    KUMARI         VERMA                                       KRI                         JHA         KUMAR
+
+Friday              SCIENC         HINDI           LIB        SOCIAL       SCIENC*         MATHS                      SCIENC
+                     KUMAR        KUMARI        DEEPAK           JHA        SHARMA         KUMAR                       VERMA
+
+Saturday            SCIENC         MATHS       SOCIAL*        SCIENC         HINDI        SCIENC         MATHS        SCIENC
+                    SHARMA         KUMAR        MISHRA         KUMAR        KUMARI         VERMA         KUMAR         VERMA
+
+
+==========================================================================================
+  CLASS: 10J
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday                 LIB         MATHS        SOCIAL        SOCIAL        SCIENC        SCIENC                     SCIENC*
+                    DEEPAK         KUMAR         KUMAR         SINHA         KUMAR         KUMAR                      TIWARY
+
+Tuesday             SCIENC        SCIENC        SOCIAL        SCIENC        COMPUT         MATHS        SCIENC         HINDI
+                    TIWARY         KUMAR         SINHA        SHARMA         JAMAL         KUMAR        TIWARY        MISHRA
+
+Wednesday           SCIENC         MATHS        SOCIAL         HINDI        SCIENC        SCIENC         MATHS              
+                    SHARMA         KUMAR         KUMAR        MISHRA         KUMAR        TIWARY         KUMAR              
+
+Thursday            SCIENC         HINDI        SOCIAL           PHE         MATHS       SCIENC*       SCIENC*        SCIENC
+                    SHARMA        MISHRA         KUMAR          AZIZ         KUMAR        TIWARY         KUMAR        TIWARY
+
+Friday               HINDI         MATHS                                    COMPUT        COMMER         MATHS        SCIENC
+                    MISHRA         KUMAR                                     JAMAL           KRI         KUMAR        TIWARY
+
+Saturday             HINDI       SCIENC*        SCIENC       SOCIAL*         MATHS        SOCIAL        SCIENC        COMMER
+                    MISHRA         KUMAR         KUMAR         KUMAR         KUMAR         SINHA        TIWARY           KRI
+
+
+==========================================================================================
+  CLASS: 11A
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday                 PHE        SCIENC       SCIENC*        SCIENC                                                        
+                    BANERJ        TIWARY           JHA        NILANJ                                                        
+
+Tuesday            SCIENC*           PHE        SCIENC        SCIENC                                                        
+                    NILANJ          AZIZ           JHA        TIWARY                                                        
+
+Wednesday          SCIENC*           PHE        SCIENC        SCIENC                                                        
+                    NILANJ        BANERJ           JHA        TIWARY                                                        
+
+Thursday             MATHS           PHE        SCIENC        SCIENC                                                        
+                    MISHRA          AZIZ           JHA        TIWARY                                                        
+
+Friday                                         SCIENC*        SCIENC                                                        
+                                                   JHA        TIWARY                                                        
+
+Saturday               PHE           ART        SCIENC        SCIENC                                                        
+                    BANERJ        KUMARI           JHA        TIWARY                                                        
+
+
+==========================================================================================
+  CLASS: 11B
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday             SCIENC*        SCIENC                      SCIENC                                                        
+                     SINGH        BANERJ                      PANDEY                                                        
+
+Tuesday             SCIENC        SCIENC                      SCIENC                                                        
+                    BANERJ        BANERJ                      PANDEY                                                        
+
+Wednesday                                                    SCIENC*                                                        
+                                                              PANDEY                                                        
+
+Thursday            SCIENC        SCIENC           ART       SCIENC*                                                        
+                    BANERJ        PANDEY        KUMARI        PANDEY                                                        
+
+Friday               MATHS         MATHS                      SCIENC                                                        
+                     KUMAR         KUMAR                      PANDEY                                                        
+
+Saturday           SCIENC*       SCIENC*                     SCIENC*                                                        
+                    CHAUBE        CHAUBE                       SINGH                                                        
+
+
+==========================================================================================
+  CLASS: 11C
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              COMMER        COMMER                      SCIENC                                                        
+                    RANJAN           KRI                      BANERJ                                                        
+
+Tuesday             COMMER       COMMER*                      COMMER                                                        
+                    RANJAN          SIR)                      RANJAN                                                        
+
+Wednesday           SCIENC        COMMER                      COMMER                                                        
+                    BANERJ           KRI                      RANJAN                                                        
+
+Thursday            COMMER        COMMER        COMMER        SCIENC                                                        
+                    RANJAN        RANJAN           KRI        BANERJ                                                        
+
+Friday              COMMER       COMMER*                      COMMER                                                        
+                    RANJAN           KRI                      RANJAN                                                        
+
+Saturday            COMMER        COMMER                     COMMER*                                                        
+                    RANJAN        RANJAN                      RANJAN                                                        
+
+
+==========================================================================================
+  CLASS: 11D
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SOCIAL        SOCIAL                      SCIENC                                                        
+                    MISHRA        SHAMBH                       SUNNY                                                        
+
+Tuesday             SOCIAL        SOCIAL                      SCIENC                                                        
+                    MISHRA        SHAMBH                       SUNNY                                                        
+
+Wednesday           SOCIAL       SOCIAL*                      SCIENC                                                        
+                    MISHRA        SHAMBH                       SUNNY                                                        
+
+Thursday            SOCIAL           ART        SOCIAL        SCIENC                                                        
+                    MISHRA        KUMARI        SHAMBH         SUNNY                                                        
+
+Friday              POL.SC        SOCIAL                      SCIENC                                                        
+                      RANI        SHAMBH                       SUNNY                                                        
+
+Saturday            SOCIAL        SOCIAL                      SCIENC                                                        
+                    MISHRA        MISHRA                       SUNNY                                                        
+
+
+==========================================================================================
+  CLASS: 12A
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday               MATHS       SCIENC*        SCIENC        SCIENC                                                        
+                     KUMAR         SINGH        TIWARY         SINGH                                                        
+
+Tuesday                                            ART        SCIENC                                                        
+                                                KUMARI         SINGH                                                        
+
+Wednesday            MATHS         MATHS        SCIENC           PHE                                                        
+                     KUMAR         KUMAR        PANDEY        BANERJ                                                        
+
+Thursday             MATHS         MATHS           PHE        SCIENC                                                        
+                     KUMAR         KUMAR        BANERJ         SINGH                                                        
+
+Friday              SCIENC           PHE       SCIENC*        SCIENC                                                        
+                    PANDEY        BANERJ        TIWARY         SINGH                                                        
+
+Saturday               PHE        SCIENC       SCIENC*           PHE                                                        
+                      AZIZ        TIWARY        PANDEY        BANERJ                                                        
+
+
+==========================================================================================
+  CLASS: 12B
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              SCIENC       SCIENC*           ART                                                                      
+                    TIWARY        NILANJ        KUMARI                                                                      
+
+Tuesday              MATHS         MATHS        SCIENC                                                                      
+                     KUMAR         KUMAR        NILANJ                                                                      
+
+Wednesday           SCIENC        SCIENC        SCIENC       SCIENC*                                                        
+                    TIWARY        NILANJ         SINGH        CHAUBE                                                        
+
+Thursday                                        SCIENC                                                                      
+                                                TIWARY                                                                      
+
+Friday              SCIENC        SCIENC       SCIENC*                                                                      
+                     SINGH        TIWARY        NILANJ                                                                      
+
+Saturday            SCIENC        SCIENC       SCIENC*                                                                      
+                    TIWARY        NILANJ         SINGH                                                                      
+
+
+==========================================================================================
+  CLASS: 12C
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday             COMMER*        COMMER        COMMER                                                                      
+                       KRI          SIR)        RANJAN                                                                      
+
+Tuesday             COMMER        COMMER        SCIENC                                                                      
+                       KRI        RANJAN        BANERJ                                                                      
+
+Wednesday           COMMER        COMMER        SCIENC           ART                                                        
+                    RANJAN          SIR)        BANERJ        KUMARI                                                        
+
+Thursday           COMMER*        COMMER        COMMER                                                                      
+                       KRI          SIR)        RANJAN                                                                      
+
+Friday              COMMER       COMMER*        SCIENC                                                                      
+                       KRI          SIR)        BANERJ                                                                      
+
+Saturday            COMMER       COMMER*        SCIENC                                                                      
+                       KRI           KRI        BANERJ                                                                      
+
+
+==========================================================================================
+  CLASS: 12D
+==========================================================================================
+DAY                     P1            P2            P3            P4            P5            P6            P7            P8
+------------------------------------------------------------------------------------------
+Monday              POL.SC        SOCIAL        SCIENC                                                                      
+                      RANI        MISHRA        BANERJ                                                                      
+
+Tuesday             POL.SC        POL.SC        SOCIAL                                                                      
+                      RANI          RANI        MISHRA                                                                      
+
+Wednesday           POL.SC        SOCIAL        SOCIAL        POL.SC                                                        
+                      RANI        MISHRA        MISHRA          RANI                                                        
+
+Thursday            POL.SC        SOCIAL       SOCIAL*                                                                      
+                      RANI        MISHRA        MISHRA                                                                      
+
+Friday              SCIENC       SOCIAL*        SOCIAL                                                                      
+                    BANERJ        MISHRA        MISHRA                                                                      
+
+Saturday            SOCIAL        SCIENC       SOCIAL*                                                                      
+                    MISHRA        BANERJ        MISHRA                                                                      
