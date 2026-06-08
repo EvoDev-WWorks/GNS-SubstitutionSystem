@@ -1,5 +1,3 @@
-# GNS-SubstitutionSystem
-
 # GNS Substitution System
 
 **Teacher Substitution Management System**  
