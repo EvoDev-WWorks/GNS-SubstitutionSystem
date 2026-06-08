@@ -1,0 +1,9 @@
+@echo off
+title Teacher Substitution System
+cd /d "%~dp0"
+
+if exist "venv\Scripts\python.exe" (
+    venv\Scripts\python.exe launch.py
+) else (
+    python launch.py
+)
