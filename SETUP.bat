@@ -21,7 +21,7 @@ echo       Done.
 echo.
 
 echo [3/3] Verifying connection to Supabase...
-venv\Scripts\python.exe -c "import httpx; r=httpx.get('https://lvsdwybkfvzioykhnfai.supabase.co/rest/v1/teachers?limit=1',headers={'apikey':'sb_secret_PRxcOI5xO1eG05s2DMIyYQ_uf1rtw8V'},verify=False); print('  Supabase connection OK' if r.status_code==200 else f'  Warning: status {r.status_code}')"
+venv\Scripts\python.exe -c "import httpx; r=httpx.get('https://lvsdwybkfvzioykhnfai.supabase.co/rest/v1/teachers?limit=1',headers={'apikey':'REMOVED'},verify=False); print('  Supabase connection OK' if r.status_code==200 else f'  Warning: status {r.status_code}')"
 
 echo.
 echo  =====================================================

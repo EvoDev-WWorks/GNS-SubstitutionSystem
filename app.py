@@ -23,8 +23,11 @@ import uvicorn, socket
 # SUPABASE — connects via HTTPS (REST API), no DNS issues
 # ─────────────────────────────────────────────────────────────
 
-SUPABASE_PROJECT_URL = "https://lvsdwybkfvzioykhnfai.supabase.co"
-SUPABASE_SERVICE_KEY = "sb_secret_PRxcOI5xO1eG05s2DMIyYQ_uf1rtw8V"
+import os
+from dotenv import load_dotenv
+load_dotenv()
+SUPABASE_PROJECT_URL = os.environ["SUPABASE_PROJECT_URL"]
+SUPABASE_SERVICE_KEY = os.environ["SUPABASE_SERVICE_KEY"]
 
 _HEADERS = {
     "apikey":        SUPABASE_SERVICE_KEY,
