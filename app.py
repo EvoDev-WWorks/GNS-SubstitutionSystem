@@ -45,7 +45,9 @@ def _post(table: str, data: dict | list, upsert_on: str | None = None) -> list:
         headers["Prefer"] = "resolution=ignore-duplicates,return=representation"
     r = httpx.post(f"{SUPABASE_PROJECT_URL}/rest/v1/{table}",
                    headers=headers, json=data, verify=False, timeout=30)
-    if r.status_code not in (200, 201, 204, 409):
+    if r.status_code == 409:
+        raise ValueError("This teacher is already assigned to another class during this period. Please choose a different teacher.")
+    if r.status_code not in (200, 201, 204):
         r.raise_for_status()
     return r.json() if r.content else []
 
@@ -304,12 +306,8 @@ def run_substitution(absent_teacher_ids: list, absence_date: date):
         })
 
     report.sort(key=lambda r:(
-        absent_teacher_ids.index(
-            next(tid for tid in absent_teacher_ids
-                 if all_teachers.get(tid,{}).get("full_name","") == r["absent_teacher"])
-        ) if any(all_teachers.get(tid,{}).get("full_name","") == r["absent_teacher"]
-                 for tid in absent_teacher_ids) else 99,
-        PERIOD_ORDER.index(r["period"]) if r["period"] in PERIOD_ORDER else 99
+        PERIOD_ORDER.index(r["period"]) if r["period"] in PERIOD_ORDER else 99,
+        r["class_name"]
     ))
 
     for tid in absent_teacher_ids:
@@ -1119,15 +1117,14 @@ function renderReport(data){
     ℹ️ <b>No timetable found on ${data.weekday} for:</b> ${ns.join(', ')}</div>`:'';
 
   const groups={},order=[];
-  rep.forEach(r=>{if(!groups[r.absent_teacher]){groups[r.absent_teacher]=[];order.push(r.absent_teacher);}groups[r.absent_teacher].push(r);});
-  ns.forEach(n=>{if(!groups[n]){groups[n]=[];order.push(n);}});
+  rep.forEach(r=>{if(!groups[r.period]){groups[r.period]=[];order.push(r.period);}groups[r.period].push(r);});
 
   const tbody=document.getElementById('tbody');tbody.innerHTML='';
-  order.forEach(teacher=>{
-    const rows=groups[teacher]||[];
+  order.forEach(period=>{
+    const rows=groups[period]||[];
+    const label=rows[0]?rows[0].period_label:period;
     const gh=document.createElement('tr');gh.className='grp';
-    gh.innerHTML=`<td colspan="6">🔴 &nbsp;Absent: ${teacher}`+
-      (rows.length===0?' &nbsp;<span style="font-weight:normal;color:#b45309">(No classes on this day)</span>':'')+`</td>`;
+    gh.innerHTML=`<td colspan="6">🕐 &nbsp;Period ${label}</td>`;
     tbody.appendChild(gh);
     rows.forEach(r=>{
       const no=r.substitute==='No substitute available';
@@ -1225,12 +1222,15 @@ async function saveTeacher(){
   if(!editingTeacherId && !data.teacher_no){alert('Teacher No is required');return;}
 
   try{
+    let res, json;
     if(editingTeacherId){
       delete data.teacher_no;
-      await fetch(`/api/admin/teachers/${editingTeacherId}`,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)});
+      res=await fetch(`/api/admin/teachers/${editingTeacherId}`,{method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)});
     } else {
-      await fetch('/api/admin/teachers',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)});
+      res=await fetch('/api/admin/teachers',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)});
     }
+    json=await res.json().catch(()=>({}));
+    if(!res.ok){alert('Error saving teacher: '+(json.error||json.message||res.status));return;}
     closeModal('teacherModal');
     showTeacherMsg(editingTeacherId?'Teacher updated successfully!':'Teacher added successfully!');
     await loadAdminTeachers();
@@ -1282,40 +1282,59 @@ async function initAdminPage(){
 }
 
 function loadAdminClassList(){
-  // Populate Grade dropdown with unique sorted grades
   const grades = [...new Set(adminClasses.map(c=>c.grade).filter(Boolean))].sort((a,b)=>a-b);
+  const preNames = ['NURSERY','LKG','UKG'];
+  const preOpts  = preNames
+    .filter(n=>adminClasses.some(c=>c.name===n||c.name.startsWith(n+' ')))
+    .map(n=>`<option value="__${n}">${n}</option>`).join('');
   document.getElementById('adminGradeSelect').innerHTML =
     '<option value="">— Grade —</option>' +
-    grades.map(g=>`<option value="${g}">${g}</option>`).join('');
+    grades.map(g=>`<option value="${g}">${g}</option>`).join('') +
+    (preOpts?`<optgroup label="Pre-Primary">${preOpts}</optgroup>`:'');
   document.getElementById('adminSectionSelect').innerHTML = '<option value="">— Section —</option>';
   document.getElementById('adminTtHint').style.display='block';
   document.getElementById('adminTtGrid').style.display='none';
 }
 
 function populateSections(){
-  const grade = parseInt(document.getElementById('adminGradeSelect').value);
+  const raw   = document.getElementById('adminGradeSelect').value;
+  const grade = raw.startsWith('__') ? raw : parseInt(raw);
   document.getElementById('adminTtGrid').style.display='none';
   document.getElementById('adminTtHint').style.display='block';
   document.getElementById('adminClassLabel').textContent='';
   if(!grade){ document.getElementById('adminSectionSelect').innerHTML='<option value="">— Section —</option>'; return; }
-  const sections = adminClasses
-    .filter(c=>c.grade===grade && c.section)
-    .map(c=>c.section)
-    .sort();
+  let sections;
+  if(typeof grade==='string' && grade.startsWith('__')){
+    const pname = grade.slice(2);
+    sections = adminClasses
+      .filter(c=>c.name===pname || c.name.startsWith(pname+' '))
+      .filter(c=>!c.name.includes('LAB')&&!c.name.includes('PRACT')&&!c.name.includes('+'))
+      .map(c=>c.name===pname?'—':c.name.replace(pname+' ',''))
+      .sort();
+  } else {
+    sections = adminClasses.filter(c=>c.grade===grade && c.section).map(c=>c.section).sort();
+  }
   document.getElementById('adminSectionSelect').innerHTML =
     '<option value="">— Section —</option>' +
     sections.map(s=>`<option value="${s}">${s}</option>`).join('');
 }
 
 async function loadAdminTimetable(){
-  const grade   = parseInt(document.getElementById('adminGradeSelect').value);
+  const raw     = document.getElementById('adminGradeSelect').value;
+  const grade   = raw.startsWith('__') ? raw : parseInt(raw);
   const section = document.getElementById('adminSectionSelect').value;
   if(!grade || !section){
     document.getElementById('adminTtHint').style.display='block';
     document.getElementById('adminTtGrid').style.display='none';
     return;
   }
-  const cls = adminClasses.find(c=>c.grade===grade && c.section===section);
+  let cls;
+  if(typeof grade==='string' && grade.startsWith('__')){
+    const pname = grade.slice(2);
+    cls = adminClasses.find(c=>section==='—'?c.name===pname:c.name===pname+' '+section);
+  } else {
+    cls = adminClasses.find(c=>c.grade===grade && c.section===section);
+  }
   if(!cls){
     document.getElementById('adminTtHint').textContent='No class found for that combination.';
     document.getElementById('adminTtHint').style.display='block';
@@ -1436,8 +1455,8 @@ async function saveCellEntry(){
       const res=await fetch('/api/admin/timetable',{
         method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)});
       if(!res.ok){
-        const e=await res.json();
-        flashSave('Error: '+(e.error||'Conflict — teacher may already be assigned this slot'),'err');
+        const e=await res.json().catch(()=>({}));
+        flashSave('⚠️ '+(e.error||'Conflict — teacher already assigned to this slot'),'err');
         closeModal('cellModal');
         return;
       }
