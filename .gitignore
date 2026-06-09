@@ -1,22 +1,4 @@
-# Python
+﻿.env
 venv/
 __pycache__/
 *.pyc
-*.pyo
-
-# Secrets — never commit real credentials
-.env
-
-# Locked/temp Excel files
-~$*.xlsx
-~$*.csv
-
-# Leftover intermediate CSV files
-CSV/
-
-# SQLite leftover
-*.db
-
-# OS
-.DS_Store
-Thumbs.db
