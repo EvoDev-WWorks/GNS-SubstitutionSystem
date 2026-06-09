@@ -15,13 +15,13 @@ echo       Done.
 echo.
 
 echo [2/3] Installing required packages...
-venv\Scripts\pip install fastapi "uvicorn[standard]" ortools psycopg2-binary ^
+venv\Scripts\pip install fastapi "uvicorn[standard]" ortools httpx ^
     --trusted-host pypi.org --trusted-host files.pythonhosted.org
 echo       Done.
 echo.
 
 echo [3/3] Verifying connection to Supabase...
-venv\Scripts\python.exe -c "import psycopg2; conn=psycopg2.connect('postgresql://postgres:Evodoc%%402026@db.dbwqompqjduzstwxzijm.supabase.co:5432/postgres'); print('  Supabase connection OK'); conn.close()"
+venv\Scripts\python.exe -c "import httpx; r=httpx.get('https://lvsdwybkfvzioykhnfai.supabase.co/rest/v1/teachers?limit=1',headers={'apikey':'sb_secret_PRxcOI5xO1eG05s2DMIyYQ_uf1rtw8V'},verify=False); print('  Supabase connection OK' if r.status_code==200 else f'  Warning: status {r.status_code}')"
 
 echo.
 echo  =====================================================
