@@ -24,8 +24,19 @@ import uvicorn, socket
 # ─────────────────────────────────────────────────────────────
 
 import os
-from dotenv import load_dotenv
-load_dotenv()
+
+for _p in [r"D:\EvoDoc\GNS-SubstitutionSystem\.env", r"D:\SubstitutionSystem\.env",
+           os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env"),
+           os.path.join(os.getcwd(), ".env")]:
+    if os.path.exists(_p):
+        with open(_p) as _f:
+            for _line in _f:
+                _line = _line.strip()
+                if _line and not _line.startswith("#") and "=" in _line:
+                    _k, _v = _line.split("=", 1)
+                    os.environ.setdefault(_k.strip(), _v.strip())
+        break
+
 SUPABASE_PROJECT_URL = os.environ["SUPABASE_PROJECT_URL"]
 SUPABASE_SERVICE_KEY = os.environ["SUPABASE_SERVICE_KEY"]
 
