@@ -15,13 +15,13 @@ echo       Done.
 echo.
 
 echo [2/3] Installing required packages...
-venv\Scripts\pip install fastapi "uvicorn[standard]" ortools httpx ^
+venv\Scripts\pip install fastapi "uvicorn[standard]" ortools httpx python-dotenv ^
     --trusted-host pypi.org --trusted-host files.pythonhosted.org
 echo       Done.
 echo.
 
-echo [3/3] Verifying connection to Supabase...
-venv\Scripts\python.exe -c "import httpx; r=httpx.get('https://lvsdwybkfvzioykhnfai.supabase.co/rest/v1/teachers?limit=1',headers={'apikey':'REMOVED'},verify=False); print('  Supabase connection OK' if r.status_code==200 else f'  Warning: status {r.status_code}')"
+echo [3/3] Checking .env file...
+if exist ".env" (echo   .env found OK) else (echo   WARNING: .env file missing! Create it before starting.)
 
 echo.
 echo  =====================================================
