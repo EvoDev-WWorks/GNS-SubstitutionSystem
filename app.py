@@ -376,7 +376,7 @@ class TimetableUpdate(BaseModel):
 
 class TimetableCreate(BaseModel):
     class_id: int
-    teacher_id: int
+    teacher_id: Optional[int] = None
     subject_id: Optional[int] = None
     day: str
     period_name: str
@@ -829,7 +829,7 @@ tr:nth-child(even):hover td{background:#f1f5f9}
   font-weight:700;text-align:center;text-transform:uppercase;white-space:nowrap;
   border:1px solid #1a4a7a;letter-spacing:.4px;
 }
-.tt-grid th.period-col{background:#1a3a5c;min-width:72px}
+.tt-grid th.period-col{background:#1a3a5c;min-width:72px;color:#fff}
 .tt-grid td{border:1px solid #e8edf4;padding:0;vertical-align:top;min-width:130px;background:#fff}
 .tt-cell{padding:8px 9px;min-height:56px;cursor:pointer;transition:.15s;position:relative}
 .tt-cell:hover{background:#eff6ff}
@@ -842,8 +842,8 @@ tr:nth-child(even):hover td{background:#f1f5f9}
 .tt-cell .tc-room{font-size:10px;color:var(--text-3);margin-top:1px}
 .tt-cell .add-hint{font-size:11px;color:#cbd5e1;font-style:italic}
 .period-label{
-  background:#1a3a5c;color:#fff;padding:9px 10px;font-size:11px;
-  font-weight:700;text-align:center;border:1px solid #1a4a7a;white-space:nowrap;
+  background:#f1f5f9;color:#000000 !important;padding:9px 10px;font-size:12px;
+  font-weight:800;text-align:center;border:1px solid #e2e8f0;white-space:nowrap;
 }
 .class-selector-bar{display:flex;gap:12px;align-items:flex-end;flex-wrap:wrap;margin-bottom:0}
 
@@ -1280,13 +1280,13 @@ input:checked+.slider:before{transform:translateX(18px)}
         </div>
       </div>
       <div class="fg">
-        <label>Teacher <span style="font-weight:400;color:var(--text-3)">(optional)</span></label>
+        <label>Teacher</label>
         <select id="sc_teacher">
           <option value="">— No specific teacher —</option>
         </select>
       </div>
       <div class="fg">
-        <label>Subject <span style="font-weight:400;color:var(--text-3)">(optional)</span></label>
+        <label>Subject</label>
         <select id="sc_subject">
           <option value="">— None —</option>
         </select>

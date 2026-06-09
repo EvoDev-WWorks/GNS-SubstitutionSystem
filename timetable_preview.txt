@@ -1,0 +1,25 @@
+﻿     0                              1    2    3   4      5    6       7       8   9       10   11     12   13   14   15
+1   NaN                            NaN   α1   α2 NaN    1st  2nd     3rd     4th NaN     5th  6th    7th  8th  NaN  NaN
+2   NaN                       COMMERCE  NaN  NaN NaN    NaN  NaN     NaN     NaN NaN     NaN  NaN    NaN  NaN  0.0  NaN
+3     1  MR. S. M. JHA (PRINCIPAL SIR)  NaN  NaN NaN    NaN  12C     NaN     NaN NaN     NaN  NaN    NaN  NaN  3.0    1
+4     2               MR. PIUSH RANJAN  11C  11C NaN    11C  NaN     12C     NaN NaN     NaN  NaN    NaN  NaN  3.0    4
+5     4              MRS BARKHA KUMARI  NaN  12C NaN    12C  11C  11 OPT  12 OPT NaN     NaN  NaN    NaN  NaN  5.0    5
+6     6                DR. ANJU SINHA   NaN  NaN NaN    NaN  10E     10D      9J NaN      9A  10B    NaN   9H  5.0    6
+7   NaN                        POL.SC.  NaN  NaN NaN    NaN  NaN     NaN     NaN NaN     NaN  NaN    NaN  NaN  0.0  NaN
+8     1             MRS. SHOBHA RANI    11D  11D NaN    12D  NaN  11 OPT  12 OPT NaN     NaN  NaN    NaN  10H  5.0    6
+9   NaN          SOCIAL STUDIES (HIST)  NaN  NaN NaN    NaN  NaN     NaN     NaN NaN     NaN  NaN    NaN  NaN  0.0  NaN
+10    1             MRS RANJANA (V.P.)  NaN  NaN NaN    NaN   7B      7C     NaN NaN     NaN  NaN    NaN  NaN  3.0    2
+11    2               DR SUJEET MISHRA  12D  NaN NaN    11D  NaN     10A     NaN NaN     NaN  NaN    NaN  10C  5.0    4
+12    3             MR. ANIL KUMAR JHA  NaN  NaN NaN    NaN   8B     NaN     10I NaN      9J   9E  8J GK  NaN  6.0    5
+13    4             MR. RABINDRA KUMAR  NaN  NaN NaN     9C  NaN     10J      7A NaN      8A   9G     9I  NaN  6.0    6
+14    5            MRS. SANGITA SHARAN  NaN  NaN NaN     7H  NaN      8E      7G NaN      6H  NaN     6D  NaN  6.0    5
+15    6              MR. SANTOSH KUMAR  NaN  NaN NaN     8G  NaN      6C      7F NaN      7I   6F    NaN   8I  5.0    6
+16    7                      MRS PAMMI  NaN  NaN NaN  6G GK   5D     NaN      5A NaN     NaN  NaN     4F   6G  6.0    5
+17    8               MRS MOHITA SINGH  NaN  NaN NaN     4C  NaN      3E      3A NaN  3B RL1  NaN     5B   4C  5.0    6
+18    9               MS. ANANTA SINHA  NaN  NaN NaN     4E   3F      3D     NaN NaN     NaN   3B     3C   4E  5.0    6
+19   10              MRS TANYA RAKSHIT  NaN  NaN NaN     7E   9D      8J     NaN NaN     10F  NaN     9F   8H  NaN    6
+20  NaN           SOCIAL STUDIES (GEO)  NaN  NaN NaN    NaN  NaN     NaN     NaN NaN     NaN  NaN    NaN  NaN  0.0  NaN
+21    1          MR. AMIT KUMAR (V.P.)  NaN  NaN NaN    NaN  NaN     NaN     10C NaN     NaN   8A    NaN  NaN  NaN    2
+22    2         MR. PAWAN KUMAR MISHRA  NaN  NaN NaN    NaN  12D      9E     10G NaN     10I  NaN    NaN  NaN  4.0    4
+23    3                    MR. SHAMBHU  NaN  NaN NaN    10D  11D     NaN     10H NaN     NaN   9A     9H  NaN  5.0    5
+24    4              MRS. ANJALI SINHA  NaN  NaN NaN     9G   8C     NaN     10J NaN     NaN   9J     8F   8G  6.0    6

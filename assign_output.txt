@@ -1,0 +1,11 @@
+﻿  1B Thu P8 = SALONI: already correct
+  1B Fri P8 = DEEPAK: SWAP 200/200
+  1E Sat P5 = DIKSHA: MOVED teacher -> class 200
+  1E Sat P6 = PALLAVI: SWAP 200/200
+  1E Thu P8 = ANKITA: already correct
+  2C Mon P5 = BETTY: SWAP 200/200
+  3F Thu P7 = DIKSHA: SWAP 200/200
+  3C Sat P3 = BETTY: SWAP 200/200
+  3A Sat P3 = MAMTA: SWAP 200/200
+  3A Sat P4 = BETTY: SWAP 200/200
+  3A Wed P6 = BETTY: SWAP 200/200

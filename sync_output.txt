@@ -1,0 +1,32 @@
+﻿Loading Supabase data...
+Parsing Excel...
+Parsed 4233 entries
+Unmatched teachers (3): ['MR. BRAJESH SINGH', 'MR. H. L. PANDEY', 'MR. S. M. JHA (PRINCIPAL SIR)']
+Unmatched classes  (11):  ['10A\nPRACT', '10B\nPRACT', '10F\nPRACT', '11 OPT\nLAB', '11B\nPRACT', '12 OPT\nLAB', '12A\nPRACT', '9E\nPRACT', '9F\nPRACT', '9F \nPRACT', '9H \nPRACT']
+
+--- DIFF ---
+INSERT: 66  |  UPDATE (class change): 134
+
+Sample UPDATEs:
+  MR. ALOK KUMAR MISHRA               Monday     P3      9J       -> 9G
+  MR. ALOK KUMAR MISHRA               Monday     P6      9G       -> 10G PRACT
+  MR. NAGENDRA SHARMA                 Monday     P7      9H       -> 10I
+  MR. S. B. MISHRA                    Monday     P3      11 OPT   -> 7G
+  MR. S. B. MISHRA                    Monday     P4      12 OPT   -> 7B
+  MR. S. B. MISHRA                    Monday     P7      10A      -> 6A
+  MRS. SANSKRITI PRAKASH              Monday     P7      1B       -> 1B A/V
+  MR. S. B. MISHRA                    Monday     P5      8J       -> 9C
+  MRS. SUNITA KUMARI                  Monday     P1      2A       -> 2A LIB
+  MRS. SUNITA KUMARI                  Monday     P2      3D       -> 3D LIB
+  MRS. SUNITA KUMARI                  Monday     P3      3C       -> 3C LIB
+  MRS. SUNITA KUMARI                  Monday     P4      2F       -> 2F LIB
+  MRS. SUNITA KUMARI                  Monday     P5      1D       -> 1D LIB
+  MRS. SUNITA KUMARI                  Monday     P6      5G       -> 5G LIB
+  MR NITIN MUKESH DEEPAK              Monday     P1      10J      -> 10J LIB
+  MR NITIN MUKESH DEEPAK              Monday     P2      7F       -> 7F LIB
+  MR NITIN MUKESH DEEPAK              Monday     P4      8H       -> 8H LIB
+  MR NITIN MUKESH DEEPAK              Monday     P5      8F       -> 8F LIB
+  MR NITIN MUKESH DEEPAK              Monday     P6      10E      -> 10E LIB
+  MR NITIN MUKESH DEEPAK              Monday     P7      8E       -> 8E LIB
+
+Dry run complete. Run with --apply to apply changes.
