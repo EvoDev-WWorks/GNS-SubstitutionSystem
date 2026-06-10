@@ -69,6 +69,8 @@ def _patch(table: str, filters: dict, data: dict) -> list:
     headers = {**_HEADERS, "Prefer": "return=representation"}
     r = httpx.patch(f"{SUPABASE_PROJECT_URL}/rest/v1/{table}",
                     headers=headers, params=filters, json=data, verify=False, timeout=30)
+    if r.status_code == 409:
+        raise ValueError("This teacher is already assigned to another class during this period. Please choose a different teacher.")
     r.raise_for_status()
     return r.json()
 
@@ -562,11 +564,31 @@ def admin_get_timetable(teacher_id: Optional[int] = None, class_id: Optional[int
             params["class_id"] = f"in.({','.join(str(i) for i in related_ids)})"
     return _get("timetable", params)
 
+def _free_teacher_slot(teacher_id, day, period_name, room_type, exclude_id=None):
+    """Manual entry mode: if the teacher already holds this slot in another
+    class, null out that entry so the new assignment can be saved. Returns
+    the names of the classes that were cleared."""
+    if not teacher_id:
+        return []
+    params = {"teacher_id": f"eq.{teacher_id}", "day": f"eq.{day}",
+              "period_name": f"eq.{period_name}", "room_type": f"eq.{room_type}"}
+    if exclude_id is not None:
+        params["id"] = f"neq.{exclude_id}"
+    cleared = _patch("timetable", params, {"teacher_id": None})
+    names = []
+    for row in cleared:
+        cls = _get("classes", {"id": f"eq.{row['class_id']}", "select": "name"})
+        names.append(cls[0]["name"] if cls else str(row["class_id"]))
+    return names
+
 @app.post("/api/admin/timetable")
 def admin_create_timetable(t: TimetableCreate):
     try:
+        cleared = _free_teacher_slot(t.teacher_id, t.day, t.period_name, t.room_type)
         result = _post("timetable", t.dict())
-        return result[0] if result else {"ok": True}
+        out = result[0] if result else {"ok": True}
+        out["cleared_from"] = cleared
+        return out
     except Exception as e:
         return JSONResponse(content={"error": str(e)}, status_code=400)
 
@@ -574,8 +596,21 @@ def admin_create_timetable(t: TimetableCreate):
 def admin_update_timetable(tid: int, t: TimetableUpdate):
     try:
         data = {k: v for k, v in t.dict().items() if v is not None}
+        cleared = []
+        if data.get("teacher_id"):
+            current = _get("timetable", {"id": f"eq.{tid}", "select": "day,period_name,room_type"})
+            if current:
+                row = current[0]
+                cleared = _free_teacher_slot(
+                    data["teacher_id"],
+                    data.get("day", row["day"]),
+                    data.get("period_name", row["period_name"]),
+                    data.get("room_type", row["room_type"]),
+                    exclude_id=tid)
         result = _patch("timetable", {"id": f"eq.{tid}"}, data)
-        return result[0] if result else {"ok": True}
+        out = result[0] if result else {"ok": True}
+        out["cleared_from"] = cleared
+        return out
     except Exception as e:
         return JSONResponse(content={"error": str(e)}, status_code=400)
 
@@ -1781,21 +1816,23 @@ async function saveCellEntry(){
   const payload={class_id:classId,teacher_id:teacherId,subject_id:subjectId,
                  day,period_name:period,room_type:roomType,is_practical:false};
   try{
-    if(existingId){
-      await fetch(`/api/admin/timetable/${existingId}`,{
-        method:'PUT',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)});
-    } else {
-      const res=await fetch('/api/admin/timetable',{
-        method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)});
-      if(!res.ok){
-        const e=await res.json().catch(()=>({}));
-        flashSave('⚠️ '+(e.error||'Conflict — teacher already assigned to this slot'),'err');
-        closeModal('cellModal');
-        return;
-      }
+    const url=existingId?`/api/admin/timetable/${existingId}`:'/api/admin/timetable';
+    const res=await fetch(url,{
+      method:existingId?'PUT':'POST',
+      headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)});
+    const body=await res.json().catch(()=>({}));
+    if(!res.ok){
+      flashSave('⚠️ '+(body.error||'Could not save'),'err');
+      closeModal('cellModal');
+      return;
     }
     closeModal('cellModal');
-    flashSave('✅ Saved to Supabase');
+    const cleared=body.cleared_from||[];
+    if(cleared.length){
+      flashSave('✅ Saved — teacher removed from '+cleared.join(', ')+' for this period (now blank there)');
+    } else {
+      flashSave('✅ Saved to Supabase');
+    }
     await loadAdminTimetable();
   }catch(e){
     flashSave('Error saving: '+e.message,'err');
