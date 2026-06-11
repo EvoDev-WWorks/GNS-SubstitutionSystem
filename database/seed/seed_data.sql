@@ -1,5 +1,5 @@
 -- ============================================================
--- Gyan Niketan Public School — Seed Data
+-- Gyan Niketan School — Seed Data
 -- Paste into Supabase SQL Editor and Run
 -- IMPORTANT: Run schema.sql first, then this file
 -- ============================================================

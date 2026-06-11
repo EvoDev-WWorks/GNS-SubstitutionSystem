@@ -1,5 +1,5 @@
 """
-Teacher Substitution System — Gyan Niketan Public School
+Teacher Substitution System — Gyan Niketan School
 =========================================================
 Single file: UI + Backend + OR-Tools + Report + Admin Panel
 
@@ -196,8 +196,14 @@ def run_substitution(absent_teacher_ids: list, absence_date: date):
         if vband and vband in teacher_bands.get(cand_id,set()):
             s += 25
         if vgrade and teacher_grades.get(cand_id):
-            min_diff = min(abs(vgrade-g) for g in teacher_grades[cand_id])
-            s += 20 if min_diff<=2 else (5 if min_diff<=4 else -15)
+            cand_grades = teacher_grades[cand_id]
+            min_diff = min(abs(vgrade-g) for g in cand_grades)
+            
+            # STRICT RULE: If the absent class is 9th or above, DO NOT assign teachers who only teach below 8th grade.
+            if vgrade >= 9 and max(cand_grades) < 8:
+                s -= 200
+            else:
+                s += 20 if min_diff<=2 else (5 if min_diff<=4 else -15)
         cand_bands = teacher_bands.get(cand_id,set())
         if cand_bands:
             cand_max = max(BAND_ORDER.get(b,0) for b in cand_bands)
@@ -647,7 +653,7 @@ HTML = r"""<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Teacher Substitution System — Gyan Niketan Public School</title>
+<title>Teacher Substitution System — Gyan Niketan School</title>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
 :root{
@@ -1002,7 +1008,7 @@ input:checked+.slider:before{transform:translateX(18px)}
   <div class="hdr-logo">🏫</div>
   <div class="hdr-text">
     <h1>Teacher Substitution System</h1>
-    <p>Gyan Niketan Public School &nbsp;·&nbsp; Session 2026–27</p>
+    <p>Gyan Niketan School &nbsp;·&nbsp; Session 2026–27</p>
   </div>
   <nav class="hdr-nav no-print">
     <button class="nav-btn active" id="nav-report"   onclick="showPage('report')">📋 Report</button>
@@ -2176,7 +2182,7 @@ if __name__ == "__main__":
         local_ip = "127.0.0.1"
     print("="*52)
     print("  Teacher Substitution System")
-    print("  Gyan Niketan Public School — 2026-27")
+    print("  Gyan Niketan School — 2026-27")
     print("="*52)
     print(f"  This PC    :  http://localhost:8000")
     print(f"  School LAN :  http://{local_ip}:8000")

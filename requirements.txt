@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+ortools
+pywebview
+python-dotenv
+pyinstaller

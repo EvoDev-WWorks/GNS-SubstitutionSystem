@@ -1,5 +1,5 @@
 -- ============================================================
--- Gyan Niketan Public School — Substitution System
+-- Gyan Niketan School — Substitution System
 -- Run this in Supabase SQL Editor FIRST, then import CSVs
 -- ============================================================
 

@@ -1,7 +1,7 @@
 # GNS Substitution System
 
 **Teacher Substitution Management System**  
-Gyan Niketan Public School — Session 2026–27
+Gyan Niketan School — Session 2026–27
 
 Automatically recommends substitute teachers using Google OR-Tools CP-SAT optimizer the moment a teacher is marked absent — respecting all school rules, load limits, and subject preferences.
 

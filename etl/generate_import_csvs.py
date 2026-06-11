@@ -118,7 +118,7 @@ print(f"GK/MSC   : {len(gk_msc_rows)}")
 # ── Build seed_data.sql ───────────────────────────────────────────────────────
 lines = []
 lines.append("-- ============================================================")
-lines.append("-- Gyan Niketan Public School — Seed Data")
+lines.append("-- Gyan Niketan School — Seed Data")
 lines.append("-- Paste into Supabase SQL Editor and Run")
 lines.append("-- IMPORTANT: Run schema.sql first, then this file")
 lines.append("-- ============================================================\n")
