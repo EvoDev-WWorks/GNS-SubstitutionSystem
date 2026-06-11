@@ -239,6 +239,10 @@ def run_substitution(absent_teacher_ids: list, absence_date: date):
         is_pt = any("PT" in (subj_code_map.get(sid,"") or "").upper() for sid in cand_subjs)
         if is_pt and vgrade in (10,11,12):
             s -= 30
+            
+        is_non_academic = any(any(x in (subj_code_map.get(sid,"") or "").upper() for x in ["ART", "MUSIC", "LIB", "PHE"]) for sid in cand_subjs)
+        if is_non_academic and vgrade in (11,12):
+            s -= 80
         s -= daily_count.get(cand_id,0)*8
         if weekly_load.get(cand_id,0) > 35:
             s -= 10
