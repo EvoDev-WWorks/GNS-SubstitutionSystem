@@ -407,7 +407,6 @@ class PeriodConfigUpdate(BaseModel):
 def get_teachers():
     return _get("teachers", {
         "select":      "id,full_name,designation",
-        "is_excluded": "eq.false",
         "order":       "full_name.asc",
     })
 
