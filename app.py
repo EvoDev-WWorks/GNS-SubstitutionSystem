@@ -116,7 +116,7 @@ def run_substitution(absent_teacher_ids: list, absence_date: date):
         if r["is_active"]:
             active_periods[r["grade_band"]].add(r["period_name"])
 
-    rows = _get("teachers", {"select":"id,full_name,designation,is_excluded"})
+    rows = _get("teachers", {"select":"id,full_name,designation,subject,is_excluded"})
     all_teachers = {r["id"]: r for r in rows}
 
     rows = _get("subjects", {"select":"id,code"})
@@ -193,6 +193,24 @@ def run_substitution(absent_teacher_ids: list, absence_date: date):
             s += 35
         if vband == "HIGHER" and "HIGHER" in teacher_bands.get(cand_id,set()):
             s += 40
+            
+        # Cross-stream penalty for 11/12
+        if vgrade >= 11:
+            cand_dept = all_teachers[cand_id].get("subject", "") or ""
+            v_subj = v.get("subject_code", "") or ""
+            
+            def get_stream(subj):
+                s_str = subj.upper()
+                if any(x in s_str for x in ["SCIENCE", "MATH", "COMPUTER", "ROBOTICS"]): return "SCIENCE"
+                if "COMMERCE" in s_str: return "COMMERCE"
+                if any(x in s_str for x in ["ART", "POL", "SOCIAL", "HIST", "GEO"]): return "ARTS"
+                return "GENERAL"
+                
+            c_stream = get_stream(cand_dept)
+            v_stream = get_stream(v_subj)
+            if c_stream != "GENERAL" and v_stream != "GENERAL" and c_stream != v_stream:
+                s -= 100
+
         if vband and vband in teacher_bands.get(cand_id,set()):
             s += 25
         if vgrade and teacher_grades.get(cand_id):
@@ -204,7 +222,7 @@ def run_substitution(absent_teacher_ids: list, absence_date: date):
             junior_count = sum(1 for g in cand_grades if g < 8)
             senior_count = sum(1 for g in cand_grades if g >= 8)
             
-            if vgrade >= 9 and junior_count > senior_count:
+            if vgrade >= 8 and junior_count > senior_count:
                 return -9999
             else:
                 s += 20 if min_diff<=2 else (5 if min_diff<=4 else -15)
