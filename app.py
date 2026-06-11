@@ -205,7 +205,7 @@ def run_substitution(absent_teacher_ids: list, absence_date: date):
             senior_count = sum(1 for g in cand_grades if g >= 8)
             
             if vgrade >= 9 and junior_count > senior_count:
-                s -= 200
+                return -9999
             else:
                 s += 20 if min_diff<=2 else (5 if min_diff<=4 else -15)
         cand_bands = teacher_bands.get(cand_id,set())
@@ -231,7 +231,9 @@ def run_substitution(absent_teacher_ids: list, absence_date: date):
             if cid in absent_teacher_ids:      continue
             if period in busy.get(cid,set()):  continue
             if daily_count.get(cid,0) >= 7:    continue
-            eligible.append({"id":cid,"name":meta["full_name"],"score":score(cid,v)})
+            s = score(cid, v)
+            if s == -9999:                     continue
+            eligible.append({"id":cid,"name":meta["full_name"],"score":s})
         eligible.sort(key=lambda x: x["score"], reverse=True)
         cands_per.append(eligible)
 
