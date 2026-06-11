@@ -243,7 +243,14 @@ def run_substitution(absent_teacher_ids: list, absence_date: date):
         is_non_academic = any(any(x in (subj_code_map.get(sid,"") or "").upper() for x in ["ART", "MUSIC", "LIB", "PHE"]) for sid in cand_subjs)
         if is_non_academic and vgrade in (11,12):
             s -= 80
-        s -= daily_count.get(cand_id,0)*8
+        dcount = daily_count.get(cand_id,0)
+        if dcount >= 6:
+            s -= 150
+        elif dcount == 5:
+            s -= 60
+        else:
+            s -= dcount * 10
+            
         if weekly_load.get(cand_id,0) > 35:
             s -= 10
         return s
@@ -257,6 +264,10 @@ def run_substitution(absent_teacher_ids: list, absence_date: date):
             if cid in absent_teacher_ids:      continue
             if period in busy.get(cid,set()):  continue
             if daily_count.get(cid,0) >= 7:    continue
+            
+            cand_dept = meta.get("subject", "") or ""
+            if "LIB" in cand_dept.upper():     continue
+            
             s = score(cid, v)
             if s == -9999:                     continue
             eligible.append({"id":cid,"name":meta["full_name"],"score":s})
@@ -289,10 +300,23 @@ def run_substitution(absent_teacher_ids: list, absence_date: date):
         if cands_per[i]: model.Add(sum(x[(i,j)] for j in all_ids) == 1)
         else:            model.Add(sum(x[(i,j)] for j in all_ids) == 0)
 
+    vacs_by_period = defaultdict(list)
+    for i, v in enumerate(vacancies):
+        vacs_by_period[v["period_name"]].append(i)
+
     for j in all_ids:
         existing = daily_count.get(j,0)
-        model.Add(sum(x[(i,j)] for i in range(n)) <= max(0,7-existing))
-        model.Add(sum(x[(i,j)] for i in range(n)) <= 2)
+        cand_subjs = teacher_subjects.get(j,set())
+        is_pt = any("PT" in (subj_code_map.get(sid,"") or "").upper() for sid in cand_subjs)
+        
+        model.Add(sum(x[(i,j)] for i in range(n)) <= max(0, 7 - existing))
+        model.Add(sum(x[(i,j)] for i in range(n)) <= (6 if is_pt else 2))
+        
+        for period, v_indices in vacs_by_period.items():
+            if is_pt:
+                model.Add(sum(x[(i,j)] for i in v_indices) <= 4)
+            else:
+                model.Add(sum(x[(i,j)] for i in v_indices) <= 1)
 
     score_map = {}
     for i,cands in enumerate(cands_per):
