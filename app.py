@@ -199,8 +199,12 @@ def run_substitution(absent_teacher_ids: list, absence_date: date):
             cand_grades = teacher_grades[cand_id]
             min_diff = min(abs(vgrade-g) for g in cand_grades)
             
-            # STRICT RULE: If the absent class is 9th or above, DO NOT assign teachers who only teach below 8th grade.
-            if vgrade >= 9 and max(cand_grades) < 8:
+            # STRICT RULE: Identify 'junior teachers' who might have one or two senior classes 
+            # by checking if the majority of the grades they teach are below 8th.
+            junior_count = sum(1 for g in cand_grades if g < 8)
+            senior_count = sum(1 for g in cand_grades if g >= 8)
+            
+            if vgrade >= 9 and junior_count > senior_count:
                 s -= 200
             else:
                 s += 20 if min_diff<=2 else (5 if min_diff<=4 else -15)
