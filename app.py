@@ -164,6 +164,13 @@ def run_substitution(absent_teacher_ids: list, absence_date: date):
         for r in rows:
             cls    = r.get("classes") or {}
             sbj    = r.get("subjects") or {}
+            cname  = cls.get("name", "").upper()
+            rtype  = (r.get("room_type") or "").upper()
+            
+            # Skip practical/lab classes
+            if "PRACT" in cname or "LAB" in cname or "LAB" in rtype:
+                continue
+                
             gband  = cls.get("grade_band", "")
             period = r["period_name"]
             if active_periods and period not in active_periods.get(gband, {period}):
