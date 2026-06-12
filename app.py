@@ -196,6 +196,23 @@ def run_substitution(absent_teacher_ids: list, absence_date: date):
         s = 0
         vband  = v.get("grade_band","")
         vgrade = v.get("grade") or 0
+        
+        cand_name = all_teachers[cand_id].get("full_name", "").upper()
+        cand_subjs = teacher_subjects.get(cand_id, set())
+        is_music = any("MUSIC" in (subj_code_map.get(sid, "") or "").upper() for sid in cand_subjs)
+        
+        if "DEEPAK" in cand_name and "MISHRA" in cand_name and is_music:
+            if vgrade > 8:
+                return -9999
+            elif vgrade < 6:
+                s -= 50
+        elif "SHANKAR" in cand_name and is_music:
+            if vgrade >= 9:
+                return -9999
+        elif is_music:
+            if vgrade >= 9:
+                return -9999
+
         if v["subject_id"] and v["subject_id"] in teacher_subjects.get(cand_id,set()):
             s += 35
         if vband == "HIGHER" and "HIGHER" in teacher_bands.get(cand_id,set()):
@@ -204,6 +221,8 @@ def run_substitution(absent_teacher_ids: list, absence_date: date):
         # Cross-stream penalty for 11/12
         if vgrade >= 11:
             cand_dept = all_teachers[cand_id].get("subject", "") or ""
+            if "RUBY" in cand_name and "TIWARY" in cand_name:
+                cand_dept = "ENGLISH"
             v_subj = v.get("subject_code", "") or ""
             
             def get_stream(subj):
@@ -315,9 +334,10 @@ def run_substitution(absent_teacher_ids: list, absence_date: date):
         existing = daily_count.get(j,0)
         cand_subjs = teacher_subjects.get(j,set())
         is_pt = any("PT" in (subj_code_map.get(sid,"") or "").upper() for sid in cand_subjs)
+        is_music = any("MUSIC" in (subj_code_map.get(sid,"") or "").upper() for sid in cand_subjs)
         
         model.Add(sum(x[(i,j)] for i in range(n)) <= max(0, 7 - existing))
-        model.Add(sum(x[(i,j)] for i in range(n)) <= (6 if is_pt else 2))
+        model.Add(sum(x[(i,j)] for i in range(n)) <= (6 if is_pt else (1 if is_music else 2)))
         
         for period, v_indices in vacs_by_period.items():
             if is_pt:
